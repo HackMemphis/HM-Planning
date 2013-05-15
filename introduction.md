@@ -10,13 +10,13 @@ Weekend of September 14th, 2013
 Goal (Needs Work)
 ====
 
-* Bring Memphis area geeks together to work on new or existing projects.
+* Bring Memphis area geeks with various technical skills together to work on new or existing projects.
 
 
 Potential Tag Line (Needs Work)
 ====
 
-`Collaborhacking in Memphis`
+`Collaborhacking in Memphis` - Bringing various technical skills together to create awesome projects.
 
 
 Elevator Pitch (Needs Work)
