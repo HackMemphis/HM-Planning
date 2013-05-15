@@ -4,16 +4,6 @@
 
 ==The idea behind using git is that we have an easy system for planning out a hack event==
 
-===Progress so far===
-
-===Roles we need filled (likely to change)===
-* Chair - Joe Ferguson (Svpernova09)
-* Space Coordinator - (Dan Hess dan9186)
-* Sponsorship Coordinator - Jordan Kasper (first run only)
-* Volunteer Coordinator / Day of Event Coordinator
-* Marketing Coordinator - Joe (Svpernova09)?
-* ?
-
 ==Potential Date==
 Weekend of september 14th
 
@@ -22,6 +12,8 @@ Weekend of september 14th
 
 
 ==Potential Tag Line (Needs Work)====
-
+* Collaborhacking in Memphis
 
 ==Elevator Pitch (Needs Work)==
+HackMemphis.com aims to create a (weekend/day) long event for developers in the Memphis to meet at a location to present
+their existing project ideas (if they have any)
