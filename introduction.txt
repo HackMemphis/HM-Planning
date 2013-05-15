@@ -1,0 +1,27 @@
+=Welcome to the HackMemphis.com planning repository=
+
+==Feel free to fork this repo and make changes and issue pull requests.==
+
+==The idea behind using git is that we have an easy system for planning out a hack event==
+
+===Progress so far===
+
+===Roles we need filled (likely to change)===
+* Chair - Joe Ferguson (Svpernova09)
+* Space Coordinator - (Dan Hess dan9186)
+* Sponsorship Coordinator - Jordan Kasper (first run only)
+* Volunteer Coordinator / Day of Event Coordinator
+* Marketing Coordinator - Joe (Svpernova09)?
+* ?
+
+==Potential Date==
+Weekend of september 14th
+
+==Goal (Needs Work)==
+* Bring Memphis area geeks together to work on new or existing projects.
+
+
+==Potential Tag Line (Needs Work)====
+
+
+==Elevator Pitch (Needs Work)==
