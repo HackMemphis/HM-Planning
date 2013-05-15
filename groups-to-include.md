@@ -1,4 +1,6 @@
-==Active User Groups==
+Active User Groups
+====
+
 * Memphis Computer Co-Op - http://computercoop.org/
 * Memphis ISSA - Information Systems Security Association - http://memphis.issa.org/
 * Memphis PASS Chapter - Professional Association for SQL Server - http://mem-pass.org/
@@ -15,7 +17,8 @@
 * Social Media Expedition - An unofficial group of people interested in using, discovering, discussing, sharing, and enabling Social Media - http://www.socialexpedition.com/
 * WordPress Memphis - For newbies and geeks alike, we'll walk through our study of WordPress together. - http://www.meetup.com/wordpress-memphis
 
-==Inactive User Groups==
+Inactive User Groups
+====
 * Memphis OWASP Open Web Application Security Project (Inactive) - https://www.owasp.org/index.php/Memphis
 * Memphis IIBA Chapter - Closed Service in Memphis 12/2012 - http://memphis.theiiba.org/
 * GOLUM (Group of Linux Users Memphis) - http://www.golum.org/
