@@ -14,4 +14,4 @@ File Layout:
 
 _Please keep all documents in markdown format (*.md). There is a helpful [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for those new to the format - although Github does have [its own flavor](https://help.github.com/articles/github-flavored-markdown) of the Markdown syntax._
 
-__If you want to become more involved, please email @Svpernova09 to be added to the Google Group!__
+__If you want to become more involved, please email [@Svpernova09](https://github.com/svpernova09) to be added to the Google Group!__
