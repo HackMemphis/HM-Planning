@@ -6,12 +6,12 @@ Coordinators
   * Sponsorship Coordinator - Jordan Kasper ([@jakerella](https://github.com/jakerella))
       * __OPEN__ Helper monkey
       * __OPEN__ Fulfillment (gathering swag, money, etc from sponsors)
-  * __OPEN__ Volunteer Coordinator / Day of Event Coordinator
+  * Volunteer Coordinator / Day of Event Coordinator / Logistics - Danny Chamberlin ([@critter42](https://github.com/critter42))
   * __OPEN__ Marketing Coordinator
       * __OPEN__ Copywriter
       * __OPEN__ Designer
       * __OPEN__ Print helper
-  * Cat Herder / Coordinator - Kara Ferguson
+  * Cat Herder / Coordinator - Kara Ferguson ([@editsverses](https://github.com/editsverses))
 
 Volunteers Looking for a Team
 ====
