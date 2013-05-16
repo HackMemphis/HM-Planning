@@ -11,7 +11,7 @@ Your Intellectual Property is yours, and our Intellectual Property is ours. Hack
 Non-Profit
 ====
 
-HackMemphis is not interested in making money. Any official non-profit needs will be handled by MidsouthMakers, a TN mutal benefit non-profit.
+HackMemphis is not interested in making money. Any official non-profit needs will be handled by MidsouthMakers, a TN mutual benefit non-profit.
 
 
 Environment
