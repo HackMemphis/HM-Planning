@@ -1,0 +1,18 @@
+=>Logistics<=
+==Pre-Event==
+Needs:
+* Supplies 
+* Transportation
+* People
+
+==Event==
+Needs:
+* Supplies 
+* Transportation
+* People
+
+==Post-Event==
+Needs:
+* Supplies 
+* Transportation
+* People
