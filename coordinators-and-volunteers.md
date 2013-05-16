@@ -12,6 +12,8 @@ Coordinators
       * __OPEN__ Designer
       * __OPEN__ Print helper
   * Cat Herder / Coordinator - Kara Ferguson ([@editsverses](https://github.com/editsverses))
+  * Advisors:
+
 
 Volunteers Looking for a Team
 ====
