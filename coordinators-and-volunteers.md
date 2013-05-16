@@ -7,7 +7,7 @@ Coordinators
       * __OPEN__ Helper monkey
       * __OPEN__ Fulfillment (gathering swag, money, etc from sponsors)
   * Volunteer Coordinator / Day of Event Coordinator / Logistics - Danny Chamberlin ([@critter42](https://github.com/critter42))
-  * __OPEN__ Marketing Coordinator
+  * Marketing Coordinator - Bryan Robinson ([@brob](http://github.com/brob))
       * __OPEN__ Copywriter
       * __OPEN__ Designer
       * __OPEN__ Print helper
