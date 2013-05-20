@@ -22,4 +22,4 @@ Potential Tag Line (Needs Work)
 Elevator Pitch (Needs Work)
 ===
 
-HackMemphis.com aims to create a (weekend/day) long event for developers in the Memphis to meet at a location to present their existing project ideas (if they have any).
+HackMemphis.com is a (weekend/day) long event for developers in the Memphis to meet at a location to present their existing project ideas (if they have any).
