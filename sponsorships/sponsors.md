@@ -1,4 +1,4 @@
-Sponsorship Leads
+Sponsors
 ====
 
 Please add only committed sponsors here. Be sure to fill in all columns that you can! If you have any questions please contact [Jordan Kasper](http://twitter.com/jakerella)!
