@@ -13,6 +13,7 @@ Coordinators
       * __OPEN__ Print helper
   * Cat Herder / Coordinator - Kara Ferguson ([@editsverses](https://github.com/editsverses))
   * Advisors:
+      * Brad Montgomery ([@bradmontgomery](https://github.com/bradmontgomery))
 
 
 Volunteers Looking for a Team
