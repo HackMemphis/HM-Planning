@@ -22,14 +22,14 @@ If you are only adding a LEAD and not a committed sponsor, please use the [LEADS
 
     <tbody>
         <tr>
-            <td>(Coming Soon!)</td>
+            <td>Midsouth Makers</td>
+            <td>Joe Ferguson</td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Jordan/Joe</td>
+            <td>Venue, non-alcoholic beverages</td>
+            <td>Right now we are planning on holding the event at this location.</td>
         </tr>
     </tbody>
 </table>

@@ -31,14 +31,14 @@ Once a lead becomes a sponsor, please move them to the [SPONSORS](https://github
             <td>Jordan works for this company</td>
         </tr>
         <tr>
-            <td>FedEx</td>
+            <td>Midsouth Makers</td>
+            <td>Joe Ferguson</td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Jordan/Joe</td>
+            <td>Venue, non-alcoholic beverages</td>
+            <td>Right now we are planning on holding the event at this location.</td>
         </tr>
     </tbody>
 </table>
