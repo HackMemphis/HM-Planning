@@ -34,11 +34,31 @@ Once a lead becomes a sponsor, please move them to the [SPONSORS](https://github
             <td>Midsouth Makers</td>
             <td>Joe Ferguson</td>
             <td></td>
-            <td></td>
+            <td>board@MidsouthMakers.org</td>
             <td></td>
             <td>Jordan/Joe</td>
             <td>Venue, non-alcoholic beverages</td>
-            <td>Right now we are planning on holding the event at this location.</td>
+            <td>Right now we are planning on holding the event at this location. Alt Contact: Dan Hess / Ben Eishen / Claudio Donndelinger</td>
+        </tr>
+		<tr>
+            <td>Jetbrains</td>
+            <td>Eugenia Dubova - PR Manager</td>
+            <td></td>
+            <td>Eugenia.Dubova@jetbrains.com</td>
+            <td></td>
+            <td>Jordan/Joe</td>
+            <td></td>
+            <td>They sponsor other developer events.</td>
+        </tr>
+		<tr>
+            <td>GitHub</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>Jordan/Joe</td>
+            <td></td>
+            <td>They sponsor other developer events.</td>
         </tr>
     </tbody>
 </table>
