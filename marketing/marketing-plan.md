@@ -10,15 +10,16 @@ This is the section where I shamelessly steal ideas from Hack Nashville
   * Eat sleep hack (sleep is crossed out)  
 * They have a "Built at HackNashville" badge that you can put on a project.
 
-People to contact:
+People to contact: (please add URLs)
 * HackNashville (@hacknashville)
 * Commercial Appeal
 * Dev Companies in Memphis
-  * Mosaik
-  * Fedex
+  * [Mosaik](http://www.mosaik.com)
+  * [Fedex](http://www.fedex.com)
   * lindsey software
   * archer > malmo
   * cardinal health
   * deluge studios
+  * [RocketFuel](http://www.gorocketfuel.com) - Joe will contact
 * University of Memphis
 * Who else?
