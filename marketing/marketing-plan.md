@@ -12,7 +12,8 @@ This is the section where I shamelessly steal ideas from Hack Nashville
 
 People to contact: (please add URLs)
 * HackNashville (@hacknashville)
-* Commercial Appeal
+* Commercial Appeal (From Bryan: I've got a lot of contacts here. I used to work here and my dad is currently the digital editor)
+* Memphis Business Journal - Bryan will contact
 * Dev Companies in Memphis
   * [Mosaik](http://www.mosaik.com)
   * [Fedex](http://www.fedex.com)
@@ -22,4 +23,11 @@ People to contact: (please add URLs)
   * deluge studios
   * [RocketFuel](http://www.gorocketfuel.com) - Joe will contact
 * University of Memphis
-* Who else?
+* [AIGA](http://memphis.aiga.org/) - Bryan will contact
+
+
+
+Needs
+===
+* Logo design
+* Site template/design
