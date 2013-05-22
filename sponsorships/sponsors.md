@@ -32,21 +32,18 @@ If you are only adding a LEAD and not a committed sponsor, please use the [LEADS
             <td>Venue, non-alcoholic beverages</td>
             <td>Right now we are planning on holding the event at this location.</td>
         </tr>
+        <tr>
+            <td>ERF Design</td>
+            <td>Dan Hess</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>Dan / Joe</td>
+            <td>HackMemphis logo</td>
+            <td></td>
+        </tr>
     </tbody>
-
-        <tbody>
-            <tr>
-                <td>ERF Design</td>
-                <td>Dan Hess</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>Dan / Joe</td>
-                <td>HackMemphis logo</td>
-                <td></td>
-            </tr>
-        </tbody>
 </table>
 
 
