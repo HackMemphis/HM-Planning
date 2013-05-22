@@ -15,8 +15,11 @@ Coordinators
   * Advisors:
       * Brad Montgomery ([@bradmontgomery](https://github.com/bradmontgomery))
 
-
 Volunteers Looking for a Team
 ====
 
 * Brian Glazer
+
+Outbound Communication
+====
+If you are in a position to do any outbound communication please request a @HackMemphis.com email from Joe Ferguson ([@Svpernova09](https://github.com/svpernova09))
