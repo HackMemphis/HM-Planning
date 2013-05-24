@@ -25,10 +25,10 @@ Once a lead becomes a sponsor, please move them to the [SPONSORS](https://github
             <td>John Kellar</td>
             <td></td>
             <td>jkellar@appendto.com</td>
-            <td>5/20</td>
+            <td>5/29</td>
             <td>Jordan</td>
             <td></td>
-            <td>Jordan works for this company</td>
+            <td>Contacted 5/24 by email. Jordan works for this company</td>
         </tr>
         <tr>
             <td>Midsouth Makers</td>
@@ -36,7 +36,7 @@ Once a lead becomes a sponsor, please move them to the [SPONSORS](https://github
             <td></td>
             <td>board@MidsouthMakers.org</td>
             <td></td>
-            <td>Jordan/Joe</td>
+            <td>Joe</td>
             <td>Venue, non-alcoholic beverages</td>
             <td>Right now we are planning on holding the event at this location. Alt Contact: Dan Hess / Ben Eishen / Claudio Donndelinger</td>
         </tr>
@@ -46,7 +46,7 @@ Once a lead becomes a sponsor, please move them to the [SPONSORS](https://github
             <td></td>
             <td>Eugenia.Dubova@jetbrains.com</td>
             <td></td>
-            <td>Jordan/Joe</td>
+            <td></td>
             <td></td>
             <td>They sponsor other developer events.</td>
         </tr>
@@ -56,9 +56,19 @@ Once a lead becomes a sponsor, please move them to the [SPONSORS](https://github
             <td></td>
             <td></td>
             <td></td>
-            <td>Jordan/Joe</td>
+            <td></td>
             <td></td>
             <td>They sponsor other developer events.</td>
+        </tr>
+		<tr>
+            <td>FedEx</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>Do we know anyone there that can help?</td>
         </tr>
     </tbody>
 </table>
