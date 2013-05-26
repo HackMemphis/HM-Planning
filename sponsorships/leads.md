@@ -1,0 +1,75 @@
+Sponsorship Leads
+====
+
+Please add any leads you may have here. Be sure to fill in all columns that you can! If you have any questions please contact [Jordan Kasper](http://twitter.com/jakerella)!
+
+Once a lead becomes a sponsor, please move them to the [SPONSORS](https://github.com/jakerella/HM-Planning/tree/master/sponsorships/sponsors.md) document!
+
+<table>
+    <thead>
+        <tr>
+            <th>Company Name</th>
+            <th>Contact Name</th>
+            <th>Phone</th>
+            <th>Email</th>
+            <th>Next Follow Up</th>
+            <th>Volunteer</th>
+            <th>Potential Level</th>
+            <th>Notes (connection, previous contacts, etc)</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td>appendTo</td>
+            <td>John Kellar</td>
+            <td></td>
+            <td>jkellar@appendto.com</td>
+            <td>5/29</td>
+            <td>Jordan</td>
+            <td></td>
+            <td>Contacted 5/24 by email. Jordan works for this company</td>
+        </tr>
+        <tr>
+            <td>Midsouth Makers</td>
+            <td>Joe Ferguson</td>
+            <td></td>
+            <td>board@MidsouthMakers.org</td>
+            <td></td>
+            <td>Joe</td>
+            <td>Venue, non-alcoholic beverages</td>
+            <td>Right now we are planning on holding the event at this location. Alt Contact: Dan Hess / Ben Eishen / Claudio Donndelinger</td>
+        </tr>
+		<tr>
+            <td>Jetbrains</td>
+            <td>Eugenia Dubova - PR Manager</td>
+            <td></td>
+            <td>Eugenia.Dubova@jetbrains.com</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>They sponsor other developer events.</td>
+        </tr>
+		<tr>
+            <td>GitHub</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>They sponsor other developer events.</td>
+        </tr>
+		<tr>
+            <td>FedEx</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>Do we know anyone there that can help?</td>
+        </tr>
+    </tbody>
+</table>
+
