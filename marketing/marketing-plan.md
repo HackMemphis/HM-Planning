@@ -13,7 +13,7 @@ This is the section where I shamelessly steal ideas from Hack Nashville
 People to contact: (please add URLs)
 * HackNashville (@hacknashville)
 * Commercial Appeal (From Bryan: I've got a lot of contacts here. I used to work here and my dad is currently the digital editor)
-* Memphis Business Journal - Bryan will contact
+* Memphis Business Journal - Bryan has initially reached out. Will proceed more when site design/logo design are done.
 * Dev Companies in Memphis
   * [Mosaik](http://www.mosaik.com)
   * [Fedex](http://www.fedex.com)
@@ -25,6 +25,15 @@ People to contact: (please add URLs)
 * University of Memphis
 * [AIGA](http://memphis.aiga.org/) - Bryan will contact
 
+
+Potential taglines
+====
+* Where software and hardware developers meet
+* Hardware and software developers build cool sh!t
+* Collaborating + Hacking = Collaborhacking
+* One weekend, 40 hackers, millions of opportunities
+* As mentioned above, stolen from Hack Nashville: "Eat sleep Hack"
+* Hackers don't destroy; they create
 
 
 Needs
