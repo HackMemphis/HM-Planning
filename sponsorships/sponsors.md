@@ -1,49 +1,36 @@
 Sponsors
 ====
 
-Please add only committed sponsors here. Be sure to fill in all columns that you can! If you have any questions please contact [Jordan Kasper](http://twitter.com/jakerella)!
+Please add only __committed sponsors__ here. Be sure to fill in all fields that you can! If you have any questions please contact [Jordan Kasper](http://twitter.com/jakerella)!
 
 If you are only adding a LEAD and not a committed sponsor, please use the [LEADS](https://github.com/jakerella/HM-Planning/tree/master/sponsorships/leads.md) document!
 
-<table>
-    <thead>
-        <tr>
-            <th>Company Name</th>
-            <th>Contact Name</th>
-            <th>Phone</th>
-            <th>Email</th>
-            <th>Committed Amount</th>
-            <th>Received Amount</th>
-            <th>Volunteer</th>
-            <th>Swag</th>
-            <th>Notes (dates for pickup, etc)</th>
-        </tr>
-    </thead>
+### Example
 
-    <tbody>
-        <tr>
-            <td>Midsouth Makers</td>
-            <td>Joe Ferguson</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>Jordan/Joe</td>
-            <td>Venue, non-alcoholic beverages</td>
-            <td>Right now we are planning on holding the event at this location.</td>
-        </tr>
-        <tr>
-            <td>ERF Design</td>
-            <td>Dan Hess</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>Dan / Joe</td>
-            <td>HackMemphis logo</td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
+_This is the format for a sponsor, please copy it and fill in __as much information as you have__!_
+    
+__COMPANY NAME__ Contact Name (email@company.com, phone)  
+Level: $amount/level (specifics like swag, reqs, etc)  
+Received Amount: $amount  
+Logo location: (for web, etc, a file location)
+Swag: (if any)  
+Last Contact: month/day by Volunteer Name (email/phone/etc)  
+__Notes:__ Anything about this sponsor that may be relevant
 
+---
 
+__Midsouth Makers__ Joe Ferguson (email@company.com, phone)  
+Level: venue and beverages  
+Received Amount: -  
+Logo location: __NEEDED!__  
+Swag: -  
+Last Contact: all the time (Joe)
+__Notes:__ Right now we are planning on holding the event at this location. Alt Contact: Dan Hess / Ben Eishen / Claudio Donndelinger
+
+__ERF Design__ Dan Hess  
+Level: logo
+Received Amount: -  
+Logo location: __NEEDED!__  
+Swag: -  
+Last Contact: (Dan)  
+__Notes:__ Doing the HackMemphis logo for us.

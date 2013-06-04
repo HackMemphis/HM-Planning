@@ -25,11 +25,6 @@ Last Contact: 5/24 by Jordan (email)
 Next Contact Date: 6/11  
 __Notes:__ Seems very promising! Jordan works for this company so the chances are good.
 
-__Midsouth Makers__ Joe Ferguson (board@midsouthmakers.org)  
-Potential level: venue/beverages  
-Last Contact: all the time by Joe  
-__Notes:__ Right now we are planning on holding the event at this location. Alt Contact: Dan Hess / Ben Eishen / Claudio Donndelinger
-
 __Modern Services, Inc__ Brad Hancock (brad.hancock@modernservicesinc.com)  
 Potential level: $???  
 Last Contact: 5/29 by Volunteer Name (email/phone/etc)  
