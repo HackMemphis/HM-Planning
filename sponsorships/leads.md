@@ -73,7 +73,7 @@ Last Contact:
 Next Contact Date:  
 __Notes:__  Alternate Contact: Mike Wright (mwright@southwest.tn.edu) 
 
-__LulzBot.com__ Claudio Donndelinger (Claudio@lulzbot.com, 1-970-377-1111)
+__LulzBot.com__ Claudio Donndelinger (Claudio@lulzbot.com, 1-970-377-1111)  
 Potential level: $????   
 Last Contact:   
 Next Contact Date:   
