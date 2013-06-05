@@ -49,20 +49,26 @@ Last Contact:
 Next Contact Date:  
 __Notes:__ 
 
-__Lokion__ Meka Egwuekwe, Director of Lokion Interactive (??)
-Potential level: $???
-Last Contact:
-Next Contact Date:
+__Lokion__ Meka Egwuekwe, Director of Lokion Interactive (??)  
+Potential level: $???  
+Last Contact:  
+Next Contact Date:  
+__Notes:__  
 
-__VACO Technology__ Diane Tabulog (??)    
+__VACO Technology__ Diane Tabulog (dtabulog@vaco.com)    
 Potential level: $???
 Last Contact:  
 Next Contact Date:  
 __Notes:__ 
 
-__Robert Half__ Adam Robertson (??)    
+__Robert Half__ Adam Robertson (adam.robertson@rht.com)    
 Potential level: $???
 Last Contact:  
 Next Contact Date:  
 __Notes:__ 
 
+__Southwest Tennessee Community College__ Todd Blankenbeckler (tblankenbeck@southwest.tn.edu)    
+Potential level: Space
+Last Contact:  
+Next Contact Date:  
+__Notes:__  Alternate Contact: Mike Wright (mwright@southwest.tn.edu)  
