@@ -49,10 +49,20 @@ Last Contact:
 Next Contact Date:  
 __Notes:__ 
 
-__Lokion__ Meka Egwuekwe, Director of Lokion Interactive (??)  
-Potential level: $???  
+__Lokion__ Meka Egwuekwe, Director of Lokion Interactive (??)
+Potential level: $???
+Last Contact:
+Next Contact Date:
+
+__VACO Technology__ Diane Tabulog (??)    
+Potential level: $???
 Last Contact:  
 Next Contact Date:  
-__Notes__  
+__Notes:__ 
 
+__Robert Half__ Adam Robertson (??)    
+Potential level: $???
+Last Contact:  
+Next Contact Date:  
+__Notes:__ 
 
