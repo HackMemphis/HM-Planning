@@ -74,8 +74,8 @@ Next Contact Date:
 __Notes:__  Alternate Contact: Mike Wright (mwright@southwest.tn.edu) 
 
 __LulzBot.com__ Claudio Donndelinger (Claudio@lulzbot.com, 1-970-377-1111)
-Potential level: $???? 
-Last Contact: 
-Next Contact Date: 
+Potential level: $????   
+Last Contact:   
+Next Contact Date:   
 __Notes:__ Strong supporter of Free and Libre OSS and OSHW. Needs to be updated once I find a better point of contact
  
