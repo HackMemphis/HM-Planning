@@ -24,7 +24,8 @@ People to contact: (please add URLs)
   * [RocketFuel](http://www.gorocketfuel.com) - Joe will contact
 * University of Memphis
 * [AIGA](http://memphis.aiga.org/) - Bryan will contact
-
+* [WMCTV] (http://wmctv.com) April Flagg, aflagg@wmctv.com  
+* [Fox13] (foxtv.com) Kristin Tallent, Kristin.Tallent@foxtv.com 
 
 Potential taglines
 ====
