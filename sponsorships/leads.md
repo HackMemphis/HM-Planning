@@ -53,5 +53,6 @@ __Lokion__ Meka Egwuekwe, Director of Lokion Interactive (??)
 Potential level: $???
 Last Contact:
 Next Contact Date:
+__Notes__
 
 
