@@ -49,10 +49,10 @@ Last Contact:
 Next Contact Date:  
 __Notes:__ 
 
-__Lokion__ Meka Egwuekwe, Director of Lokion Interactive (??)
-Potential level: $???
-Last Contact:
-Next Contact Date:
-__Notes__
+__Lokion__ Meka Egwuekwe, Director of Lokion Interactive (??)  
+Potential level: $???  
+Last Contact:  
+Next Contact Date:  
+__Notes__  
 
 
