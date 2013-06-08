@@ -42,11 +42,12 @@ All leads should go through a similar process in the beginning to ensure that we
 This section will attempt to identify all of the items we will need funding for in order to plan out how many sponsors (and at what levels) we need.
 
 ### Estimate Totals
+_Note that these totals use the high end of any cost range._
 
-* Venvue (and Related): $____
-* Food and Beverage: $____
-* Other: $____
-* __Grand Total: $__
+* Venvue (and Related): $5,775
+* Food and Beverage: $2,250
+* Other: $1,200
+* __Grand Total: $9,225__
 
 ### Venue
 
@@ -97,4 +98,30 @@ Since we want hackers to be able to stay at the event and work as long as they l
 * __Breakfast__ _Estimate: $250_
 * __PER PERSON__ _Estimate: $35_
 * __TOTAL (50 ppl)__ _Estimate: $1750_
+
+### Other Items
+It would be nice to have swag-specific sponsor(s) - and we may not need all of the things below - but in any case, here are some rough cost estimates.
+
+#### T-shirts
+Should be able to get these for around _$12 per person_ (depending on the quantity, material, colors, etc).
+
+_Estimate: $600_
+
+#### Bags
+Should be able to get these for around _$8 per person_ (depending on the quantity, material, design, etc).
+
+_Estimate: $400_
+
+#### Printed Materials
+
+* __Posters__ _Estimate: $20-40_
+* __Table Tents__ _Estimate: $20-40_
+* __Business Cards__ _Estimate: $10-20_
+
+#### Lanyards & Badges
+This assumes we print the badges ourselves, but we would need plastic holders and lanyards.
+
+* __Badge Printing__ _Estimate: $20_
+* __Holders__ _Estimate: $50_ (200 pack)
+* __Lanyards__ _Estimate: $30_ (50 pack)
 
