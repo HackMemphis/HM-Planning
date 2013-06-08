@@ -7,6 +7,7 @@ __NOTE: This plan - and all suggestions - are currently targeted for 40 attendee
 
 * [Ideals](#ideals)
 * [Contact Plan for Leads](#contact-plan)
+* [Levels](#levels)
 * [Funding Goals](#goals)
 
 
@@ -31,10 +32,59 @@ Recruiters may provide swag for the event and leave business cards on the swag t
 
 ## <a id="contact-plan"></a>Contact Plan for Leads
 
-All leads should go through a similar process in the beginning to ensure that we are hitting all of the right points, etc.
+All leads should go through a similar process in the beginning to ensure that we are hitting all of the right points, etc. Below are the steps for contacting a new lead and getting them to the proper channels.
 
 > (TODO: finsih this up)
 
+
+## <a id="levels"></a>Levels
+
+Here we'll delineate the levels available to sponsors and what each level entitles the sponsor.
+
+### Ninja ($3000, limit 3)
+
+* may choose to become an industry exclusive ($1000 extra, see below)
+* logo on the badges
+* may display banner at the event
+* may choose to be sponsor for the lanyards (only your logo, first come first served)
+* 5 min announcement at the event (by you or us)
+* can reserve 6 hours at the sponsor table (see below)
+* logo on event t-shirts and bags (if produced, requires minimum total sponsorhsip)
+* logo on any printed materials
+* a logo and link on the web site
+* two or more shout outs on our social media channels (each channel)
+* ability to put swag on our swag table at the event
+
+### Elite Hacker ($1000, unlimited)
+
+* 3 min announcement at the event (by you or us)
+* can reserve 2 hours at the sponsor table (see below)
+* logo on event t-shirts and bags (if produced, requires minimum total sponsorhsip)
+* logo on any printed materials
+* a logo and link on the web site
+* two or more shout outs on our social media channels (each channel)
+* ability to put swag on our swag table at the event
+
+### Forger ($250, unlimited)
+
+* shout out during announcements at the event
+* logo on any printed materials
+* a logo and link on the web site
+* at least one shout out on our social media channels (one channel)
+* ability to put swag on our swag table at the event
+
+### Tinkerer ($100, unlimited)
+
+* a logo and link on the web site
+* at least one shout out on our social media channels (one channel)
+* ability to put swag on our swag table at the event
+
+
+### Sponsor Table
+Sponsors above a certain level may reserve a two hour block of time at the "sponsor table" at the event. This table will be located in a prime spot at the venue and gurantees a high value and volume of traffic. Sponsors may display whatever they like at the table, but should clear the display with their sponsorship contact first.
+
+### Exclusivity
+Any sponsor at the Cool Name 3 level may choose to become an industry exclusive sponsor for an additional $1000. This means that HackMemphis will NOT accept sponsorships from another company in the same industry. This bonus is provided on a first come, first served basis and __will only take effect once the sponsorship amount is fulfilled in full__.
 
 
 ## <a id="goals"></a>Funding Goals
