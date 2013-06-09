@@ -34,7 +34,27 @@ Recruiters may provide swag for the event and leave business cards on the swag t
 
 All leads should go through a similar process in the beginning to ensure that we are hitting all of the right points, etc. Below are the steps for contacting a new lead and getting them to the proper channels.
 
-> (TODO: finsih this up)
+1. Enter all information (any you have) in the [leads](https://github.com/HackMemphis/HM-Planning/blob/master/sponsorships/leads.md) document
+2. If you have a connection with the sponsor, go ahead and make the initial contact
+  * Use the script (below) and any personal knowledge you have of the company (and contact)
+  * Record the date, method of contact, and general sense of things in the [leads](https://github.com/HackMemphis/HM-Planning/blob/master/sponsorships/leads.md) document
+3. If there is absolutely no interest, mark that as such in the [leads](https://github.com/HackMemphis/HM-Planning/blob/master/sponsorships/leads.md) document!
+  * __This is very important so that others don't try to contact the same company!__
+  * Also try to indicate if it was just timing/funding so that we might contact the company again in the future
+4. If there is some interest, notify the [sponsorship coordinator](https://github.com/HackMemphis/HM-Planning/blob/master/coordinators-and-volunteers.md)
+  * If there is a good personal connection you may continue to work the sponsor, or you can pass it off to the coordinator
+5. Each time there is contact, record it in the [leads](https://github.com/HackMemphis/HM-Planning/blob/master/sponsorships/leads.md) document
+6. If the sponsor agrees to donate (either funds or in-kind)...
+  * Move the sponsor info from the leads document to the [sponsors](https://github.com/HackMemphis/HM-Planning/blob/master/sponsorships/sponsors.md) document!
+  * Record what they are offering (what level, amount, swag, etc)
+  * Get as much information about the company/contact and record it!
+7. Now you __must contact the sponsorship coordinator__ so that fulfillment can be arranged, etc
+8. That's it!
+
+### Contact Script
+This script can be used on a first contact with a potential sponsor. Feel free to read it on the phone, deliver it in an email, or paraphrase it in person (best not to read from a sheet in person).
+
+> TODO
 
 
 ## <a id="levels"></a>Levels
