@@ -19,6 +19,14 @@ __Notes:__ Anything about this sponsor that may be relevant
 
 ---
 
+__Modern Services, Inc__ Brad Hancock (brad.hancock@modernservicesinc.com)  
+Level: $250 ("Forger")  
+Received Amount: $0  
+Logo location: __NEEDED!__  
+Swag: ?  
+Last Contact: 6/7 (received inital acceptance!)  
+__Notes:__ Has committed to $250. Voiced interest at PHP meetup.
+
 __Midsouth Makers__ Joe Ferguson (email@company.com, phone)  
 Level: venue and beverages  
 Received Amount: -  
