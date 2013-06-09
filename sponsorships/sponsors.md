@@ -3,7 +3,7 @@ Sponsors
 
 Please add only __committed sponsors__ here. Be sure to fill in all fields that you can! If you have any questions please contact [Jordan Kasper](http://twitter.com/jakerella)!
 
-If you are only adding a LEAD and not a committed sponsor, please use the [LEADS](https://github.com/jakerella/HM-Planning/tree/master/sponsorships/leads.md) document!
+If you are only adding a LEAD and not a committed sponsor, please use the [LEADS](https://github.com/HackMemphis/HM-Planning/blob/master/sponsorships/leads.md) document!
 
 ### Example
 
