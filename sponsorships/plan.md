@@ -54,7 +54,21 @@ All leads should go through a similar process in the beginning to ensure that we
 ### Contact Script
 This script can be used on a first contact with a potential sponsor. Feel free to read it on the phone, deliver it in an email, or paraphrase it in person (best not to read from a sheet in person).
 
-> TODO
+_Be sure to __personalize__ the content below to the company (and contact) you are talking to and attach the prospectus!!_
+
+> Hello! My name is __________ and I'm helping organize the HackMemphis event coming up this September. Our mission is to __bring together local tech communities to develop hardware and software projects in Memphis.__ 
+> 
+> We want to provide an amazing environment for our attendees, and to do that we need your help! We're hoping for a number of great sponsors from the memphis area and beyond to show local developers how much support there is for them to "Make Tech Happen".
+> 
+> I'm writing to you today in hopes that we can count on your support. Attached to this email is our current prospectus; it outlines our various packages and what we can offer to you! If you have any questions feel free to contact me (if I can't answer them I'll find someone who can).
+> 
+> We're creating an ecosystem to host a hardware and software developer weekend to forge a community of hackers and makers in Memphis. We're inviting all types of development professionals and amateurs from the metro area and bringing them together to make incredible things - and we want you to be a part of it!
+> 
+> Thank you,
+> 
+> HackMemphis sponsorship committee
+
+_You should also check the [marketing directory](https://github.com/HackMemphis/HM-Planning/tree/master/marketing) for information you can use to promote the event and the [Ideals document](https://github.com/HackMemphis/HM-Planning/blob/master/ideals.md) in the root directory._
 
 
 ## <a id="levels"></a>Levels
