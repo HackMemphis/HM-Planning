@@ -75,7 +75,7 @@ _You should also check the [marketing directory](https://github.com/HackMemphis/
 
 Here we'll delineate the levels available to sponsors and what each level entitles the sponsor.
 
-### Ninja ($3000, limit 3)
+### Diamond ($3000, limit 3)
 
 * may choose to become an industry exclusive ($1000 extra, see below)
 * logo on the badges
@@ -89,7 +89,7 @@ Here we'll delineate the levels available to sponsors and what each level entitl
 * two or more shout outs on our social media channels (each channel)
 * ability to put swag on our swag table at the event
 
-### Elite Hacker ($1000, unlimited)
+### Gold ($1000, unlimited)
 
 * 3 min announcement at the event (by you or us)
 * can reserve 2 hours at the sponsor table (see below)
@@ -99,7 +99,7 @@ Here we'll delineate the levels available to sponsors and what each level entitl
 * two or more shout outs on our social media channels (each channel)
 * ability to put swag on our swag table at the event
 
-### Forger ($250, unlimited)
+### Silver ($250, unlimited)
 
 * shout out during announcements at the event
 * logo on any printed materials
@@ -107,7 +107,7 @@ Here we'll delineate the levels available to sponsors and what each level entitl
 * at least one shout out on our social media channels (one channel)
 * ability to put swag on our swag table at the event
 
-### Tinkerer ($100, unlimited)
+### Community ($100, unlimited)
 
 * a logo and link on the web site
 * at least one shout out on our social media channels (one channel)
