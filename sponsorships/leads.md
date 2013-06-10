@@ -3,7 +3,7 @@ Sponsorship Leads
 
 Please add any leads you may have here. Be sure to fill in all columns that you can! If you have any questions please contact [Jordan Kasper](http://twitter.com/jakerella)! These leads are not in any particular order.
 
-Once a lead becomes a sponsor, please move them to the [SPONSORS](https://github.com/jakerella/HM-Planning/tree/master/sponsorships/sponsors.md) document!
+Once a lead becomes a sponsor, please move them to the [SPONSORS](https://github.com/HackMemphis/HM-Planning/blob/master/sponsorships/sponsors.md) document!
 
 ## Leads
 
