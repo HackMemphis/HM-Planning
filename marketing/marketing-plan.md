@@ -1,8 +1,7 @@
 Marketing Plan
 ====
 
-Branding
-====
+__Branding__  
 HACKmemphis -- The correct format for HACKmemphis is for hack to be all in capitals and Memphis to be all lower-case.  
 We'll have a logo to download soon  
 
