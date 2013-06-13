@@ -103,3 +103,9 @@ Last Contact: 6/13 (Jordan, email)
 Next Contact Date: 6/20  
 __Notes:__ They donate review copies of books to various UG already
 
+__Emma__ @emmaemail  
+Potential level: ??  
+Last Contact: 6/13 (Jordan, Twitter)  
+Next Contact Date: 6/20  
+__Notes:__ They sponsored HackNashville
+
