@@ -27,8 +27,8 @@ __Notes:__ Seems very promising! Jordan works for this company so the chances ar
 
 __Jetbrains__ Eugenia Dubova - PR Manager (Eugenia.Dubova@jetbrains.com)  
 Potential level: $???  
-Last Contact:  
-Next Contact Date:  
+Last Contact: 6/13 by Jordan (email w prospectus)  
+Next Contact Date: 6/20  
 __Notes:__ They sponsor other developer events
 
 __Github__ ?? (??)    
@@ -56,7 +56,7 @@ Next Contact Date: 6/20
 __Notes:__ Sponsor JUG, seem likely to be interested
 
 __Robert Half__ Adam Robertson (adam.robertson@rht.com)    
-Potential level: $???
+Potential level: $???  
 Last Contact:  
 Next Contact Date:  
 __Notes:__ 
@@ -75,7 +75,7 @@ __Notes:__ Brian didn't talk to them in particular, but someone associated with 
 
 __LulzBot.com__ Claudio Donndelinger (Claudio@lulzbot.com, 1-970-377-1111)  
 Potential level: $????  
-Last Contact:   
-Next Contact Date:   
+Last Contact:  
+Next Contact Date:  
 __Notes:__ Strong supporter of Free and Libre OSS and OSHW. Needs to be updated once I find a better point of contact
- 
+
