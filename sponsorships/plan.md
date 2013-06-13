@@ -59,11 +59,9 @@ _Be sure to __personalize__ the content below to the company (and contact) you a
 
 > Hello! My name is __________ and I'm helping organize the HACKmemphis event coming up this September. Our mission is to __bring together local tech communities to develop hardware and software projects in Memphis.__ 
 > 
-> We want to provide an amazing environment for our attendees, and to do that we need your help! We're hoping for a number of great sponsors from the memphis area and beyond to show local developers how much support there is for them to "Make Tech Happen".
+> We want to provide an amazing environment for our attendees, and to do that we need your help! We're hoping for a number of great sponsors from the Memphis area and beyond to show local developers how much support there is for them to "Make Tech Happen".
 > 
 > I'm writing to you today in hopes that we can count on your support. Attached to this email is our current prospectus; it outlines our various packages and what we can offer to you! If you have any questions feel free to contact me (if I can't answer them I'll find someone who can).
-> 
-> We're creating an ecosystem to host a hardware and software developer weekend to forge a community of hackers and makers in Memphis. We're inviting all types of development professionals and amateurs from the metro area and bringing them together to make incredible things - and we want you to be a part of it!
 > 
 > Thank you,
 > 
