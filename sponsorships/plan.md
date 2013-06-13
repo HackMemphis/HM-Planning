@@ -8,6 +8,7 @@ __NOTE: This plan - and all suggestions - are currently targeted for 40 attendee
 * [Ideals](#ideals)
 * [Contact Plan for Leads](#contact-plan)
 * [Levels](#levels)
+* [Fulfillment Checklist](#checklist)
 * [Funding Goals](#goals)
 
 
@@ -80,8 +81,8 @@ Here we'll delineate the levels available to sponsors and what each level entitl
 * may choose to become an industry exclusive ($1000 extra, see below)
 * logo on the badges
 * may display banner at the event
-* may choose to be sponsor for the lanyards (only your logo, first come first served)
-* 5 min announcement at the event (by you or us)
+* may choose to be sponsor for the lanyards ($200, first come first served)
+* 10 min announcement at the event (by you or us)
 * can reserve 6 hours at the sponsor table (see below)
 * logo on event t-shirts and bags (if produced, requires minimum total sponsorhsip)
 * logo on any printed materials
