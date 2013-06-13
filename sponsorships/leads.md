@@ -97,3 +97,9 @@ Last Contact: 6/13 (Jordan, phone)
 Next Contact Date: 6/14  
 __Notes:__ 
 
+__O'Reilly__ Marsee Henon or Jon Johns (usergroups@oreilly.com, 800-998-9938)  
+Potential level: ??  
+Last Contact: 6/13 (Jordan, email)  
+Next Contact Date: 6/20  
+__Notes:__ They donate review copies of books to various UG already
+
