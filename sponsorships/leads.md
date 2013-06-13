@@ -91,3 +91,9 @@ Last Contact: 6/13 (Jordan, Twitter)
 Next Contact Date: 6/20  
 __Notes:__ 
 
+__University of Memphis__ PR/Marketing Office (901-678-2843)  
+Potential level: ??  
+Last Contact: 6/13 (Jordan, phone)  
+Next Contact Date: 6/14  
+__Notes:__ 
+
