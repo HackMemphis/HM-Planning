@@ -57,9 +57,9 @@ __Notes:__ Sponsor JUG, seem likely to be interested
 
 __Robert Half__ Adam Robertson (adam.robertson@rht.com)    
 Potential level: $???  
-Last Contact:  
-Next Contact Date:  
-__Notes:__ 
+Last Contact: 6/13 (Jordan, email)  
+Next Contact Date: 6/20  
+__Notes:__  
 
 __Southwest Tennessee Community College__ Todd Blankenbeckler (tblankenbeck@southwest.tn.edu)    
 Potential level: Venue  
