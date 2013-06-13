@@ -62,13 +62,19 @@ Next Contact Date:
 __Notes:__ 
 
 __Southwest Tennessee Community College__ Todd Blankenbeckler (tblankenbeck@southwest.tn.edu)    
-Potential level: Space
+Potential level: Venue  
 Last Contact:  
 Next Contact Date:  
 __Notes:__  Alternate Contact: Mike Wright (mwright@southwest.tn.edu) 
 
+__Christian Brothers University__ ??  
+Potential level: Venue  
+Last Contact: 6/13 by Brian Swanson  
+Next Contact Date: 6/17  
+__Notes:__ Brian didn't talk to them in particular, but someone associated with them, who indicated they may be interested in helping
+
 __LulzBot.com__ Claudio Donndelinger (Claudio@lulzbot.com, 1-970-377-1111)  
-Potential level: $????   
+Potential level: $????  
 Last Contact:   
 Next Contact Date:   
 __Notes:__ Strong supporter of Free and Libre OSS and OSHW. Needs to be updated once I find a better point of contact
