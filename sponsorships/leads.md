@@ -31,10 +31,10 @@ Last Contact: 6/13 by Jordan (email w prospectus)
 Next Contact Date: 6/20  
 __Notes:__ They sponsor other developer events
 
-__Github__ ?? (??)    
+__Github__ Elizabeth Naramore (@ElizabethN)  
 Potential level: $???
-Last Contact:  
-Next Contact Date:  
+Last Contact: 6/13 (Jordan, tweet)  
+Next Contact Date: 6/20  
 __Notes:__ They sponsor other developer events
 
 __FedEx__ ?? (??)    
