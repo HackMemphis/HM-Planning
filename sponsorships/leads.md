@@ -51,9 +51,9 @@ __Notes:__  Noted that it "sounds interesting", should definitely follow up. Men
 
 __VACO Technology__ Diane Tabulog (dtabulog@vaco.com)    
 Potential level: $???
-Last Contact:  
-Next Contact Date:  
-__Notes:__ 
+Last Contact: 6/13 by Jordan (email w prospectus)  
+Next Contact Date: 6/20  
+__Notes:__ Sponsor JUG, seem likely to be interested
 
 __Robert Half__ Adam Robertson (adam.robertson@rht.com)    
 Potential level: $???
