@@ -85,3 +85,9 @@ Last Contact: 6/12 (Jordan, email)
 Next Contact Date: 6/20  
 __Notes:__ Jesse tweeted that Rackspace wants to help hackathons in particular
 
+__Atlassian__ @Atlassian  
+Potential level: ??  
+Last Contact: 6/13 (Jordan, Twitter)  
+Next Contact Date: 6/20  
+__Notes:__ 
+
