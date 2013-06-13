@@ -1,7 +1,7 @@
 Sponsorship Plan
 ====
 
-This is the plan for how to handle sponsorships for the HackMemphis event. It is intended to be a guide for how to handle new leads, what we can offer sponsors, what restrictions we will have, etc. If you have any ideas on the matter, please bring them up in a planning meeting for discussion, after which those ideas can be merged into this document. Note that as this is the first time we are producing this event, we are very open to new ideas!
+This is the plan for how to handle sponsorships for the HACKmemphis event. It is intended to be a guide for how to handle new leads, what we can offer sponsors, what restrictions we will have, etc. If you have any ideas on the matter, please bring them up in a planning meeting for discussion, after which those ideas can be merged into this document. Note that as this is the first time we are producing this event, we are very open to new ideas!
 
 __NOTE: This plan - and all suggestions - are currently targeted for 40 attendees plus staff (50 total)!__
 
@@ -57,7 +57,7 @@ This script can be used on a first contact with a potential sponsor. Feel free t
 
 _Be sure to __personalize__ the content below to the company (and contact) you are talking to and attach the prospectus!!_
 
-> Hello! My name is __________ and I'm helping organize the HackMemphis event coming up this September. Our mission is to __bring together local tech communities to develop hardware and software projects in Memphis.__ 
+> Hello! My name is __________ and I'm helping organize the HACKmemphis event coming up this September. Our mission is to __bring together local tech communities to develop hardware and software projects in Memphis.__ 
 > 
 > We want to provide an amazing environment for our attendees, and to do that we need your help! We're hoping for a number of great sponsors from the memphis area and beyond to show local developers how much support there is for them to "Make Tech Happen".
 > 
@@ -67,7 +67,7 @@ _Be sure to __personalize__ the content below to the company (and contact) you a
 > 
 > Thank you,
 > 
-> HackMemphis sponsorship committee
+> HACKmemphis sponsorship committee
 
 _You should also check the [marketing directory](https://github.com/HackMemphis/HM-Planning/tree/master/marketing) for information you can use to promote the event and the [Ideals document](https://github.com/HackMemphis/HM-Planning/blob/master/ideals.md) in the root directory._
 
@@ -119,7 +119,7 @@ Here we'll delineate the levels available to sponsors and what each level entitl
 Sponsors above a certain level may reserve a two hour block of time at the "sponsor table" at the event. This table will be located in a prime spot at the venue and gurantees a high value and volume of traffic. Sponsors may display whatever they like at the table, but should clear the display with their sponsorship contact first.
 
 ### Exclusivity
-Any sponsor at the Cool Name 3 level may choose to become an industry exclusive sponsor for an additional $1000. This means that HackMemphis will NOT accept sponsorships from another company in the same industry. This bonus is provided on a first come, first served basis and __will only take effect once the sponsorship amount is fulfilled in full__.
+Any sponsor at the Cool Name 3 level may choose to become an industry exclusive sponsor for an additional $1000. This means that HACKmemphis will NOT accept sponsorships from another company in the same industry. This bonus is provided on a first come, first served basis and __will only take effect once the sponsorship amount is fulfilled in full__.
 
 
 ## <a id="goals"></a>Funding Goals
