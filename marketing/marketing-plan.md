@@ -1,6 +1,16 @@
 Marketing Plan
 ====
 
+__Tagline__  
+Make Tech Happen  
+
+__Mission__  
+To bring together local tech communities to develop hardware and software projects in Memphis.  
+  
+__Elevator Pitch__  
+HackMemphis is an ecosystem to host a hardware and software developer weekend to forge a community of hackers and makers in Memphis.  
+  
+
 __Branding__  
 HACKmemphis -- The correct format for HACKmemphis is for hack to be all in capitals and Memphis to be all lower-case.  
 We'll have a logo to download soon  
