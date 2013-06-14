@@ -16,7 +16,7 @@ To bring together tech communities to develop hardware and software projects in 
 Tag Line
 ====
 
-Bringing together tech communities to develop hardware and software projects in Memphis.
+Make Tech Happen
 
 
 Elevator Pitch
