@@ -10,16 +10,16 @@ Weekend of September 14th, 2013
 Goal (Needs Work)
 ====
 
-* Bring Memphis area geeks with various technical skills together to work on new or existing projects.
+To bring together tech communities to develop hardware and software projects in Memphis.
 
 
-Potential Tag Line (Needs Work)
+Tag Line
 ====
 
-`Collaborhacking in Memphis` - Bringing various technical skills together to create awesome projects.
+Bringing together tech communities to develop hardware and software projects in Memphis.
 
 
-Elevator Pitch (Needs Work)
+Elevator Pitch
 ===
 
-HackMemphis.com is a (weekend/day) long event for developers in the Memphis to meet at a location to present their existing project ideas (if they have any).
+Hack Memphis is organizing hack events in the Memphis area. Our goal is to bring together tech communities to develop hardware and software projects in Memphis.
