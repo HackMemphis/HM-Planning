@@ -1,4 +1,4 @@
-Welcome to the HackMemphis.com planning repository
+Welcome to the HACKmemphis.com planning repository
 ====
 
 Feel free to fork this repo and make changes and issue pull requests. The idea behind using git is that we have an easy system for planning out a hack event.
@@ -7,7 +7,7 @@ Potential Date
 ====
 Weekend of September 14th, 2013
 
-Goal (Needs Work)
+Goal
 ====
 
 To bring together tech communities to develop hardware and software projects in Memphis.

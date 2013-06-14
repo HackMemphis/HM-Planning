@@ -1,7 +1,7 @@
 HM-Planning
 ===========
 
-__Welcome to the HackMemphis.com planning repository!__
+__Welcome to the HACKmemphis.com planning repository!__
 
 Feel free to fork this repo and make changes and issue pull requests. The idea behind using git is that we have an easy system for planning out a hack event.
 

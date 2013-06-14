@@ -43,7 +43,7 @@ Received Amount: -
 Logo location: __NEEDED!__  
 Swag: -  
 Last Contact: (Dan)  
-__Notes:__ Doing the HackMemphis logo for us.
+__Notes:__ Doing the HACKmemphis logo for us.
 
 
 ### <a href="fulfillment"></a>Fulfillment Checklist
