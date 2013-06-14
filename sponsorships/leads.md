@@ -63,8 +63,8 @@ __Notes:__
 
 __Southwest Tennessee Community College__ Todd Blankenbeckler (tblankenbeck@southwest.tn.edu)    
 Potential level: Venue  
-Last Contact:  
-Next Contact Date:  
+Last Contact:  Joe Sent email to Todd B. on 6/13
+Next Contact Date:  TBD - awaiting response
 __Notes:__  Alternate Contact: Mike Wright (mwright@southwest.tn.edu) 
 
 __Christian Brothers University__ ??  
