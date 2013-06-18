@@ -115,3 +115,9 @@ Last Contact: 6/13 (Jordan, Twitter)
 Next Contact Date: 6/20  
 __Notes:__ I've chatted with them before, have some contacts there. They sponsor a number of SF user groups.
 
+__University of Memphis__ Russell Deaton (rjdeaton@memphis.edu)
+Potential level: ??  
+Last Contact: 6/17 (Bryan, email)  
+Next Contact Date: ??  
+__Notes:__ New ECE dept chair. Seemed interested in both providing a venue and sponsorships.
+
