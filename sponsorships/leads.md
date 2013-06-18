@@ -97,6 +97,12 @@ Last Contact: 6/13 (Jordan, phone)
 Next Contact Date: 6/14  
 __Notes:__ 
 
+__University of Memphis__ Russell Deaton (rjdeaton@memphis.edu)
+Potential level: ??  
+Last Contact: 6/17 (Bryan, email)  
+Next Contact Date: ??  
+__Notes:__ New ECE dept chair. Seemed interested in both providing a venue and sponsorships.
+
 __O'Reilly__ Marsee Henon or Jon Johns (usergroups@oreilly.com, 800-998-9938)  
 Potential level: ??  
 Last Contact: 6/13 (Jordan, email)  
@@ -114,10 +120,4 @@ Potential level: ??
 Last Contact: 6/13 (Jordan, Twitter)  
 Next Contact Date: 6/20  
 __Notes:__ I've chatted with them before, have some contacts there. They sponsor a number of SF user groups.
-
-__University of Memphis__ Russell Deaton (rjdeaton@memphis.edu)
-Potential level: ??  
-Last Contact: 6/17 (Bryan, email)  
-Next Contact Date: ??  
-__Notes:__ New ECE dept chair. Seemed interested in both providing a venue and sponsorships.
 
