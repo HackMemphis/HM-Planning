@@ -115,9 +115,15 @@ Last Contact: 6/13 (Jordan, Twitter)
 Next Contact Date: 6/20  
 __Notes:__ They sponsored HackNashville
 
-__Zendesk__ Devaris Brown (@devarispbrown / @Zendesk)  
+__Zendesk__ Devaris Brown (@devarispbrown / @Zendesk)
 Potential level: ??  
 Last Contact: 6/13 (Jordan, Twitter)  
 Next Contact Date: 6/20  
 __Notes:__ I've chatted with them before, have some contacts there. They sponsor a number of SF user groups.
+
+__Davisbase__ Steven Voyles (Agile Coach & Trainer)
+Potential level: ??
+Last Contact: 6/21 (Joe, Downtown Tech Lunch)
+Next Contact Date: TBD
+__Notes:__ Mentioned his company may be interested in some sponsorship level, Sent prospectus 6/21
 
