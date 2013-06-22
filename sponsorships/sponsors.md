@@ -21,6 +21,14 @@ __Notes:__ Anything about this sponsor that may be relevant
 
 ---
 
+RocketFuel, LLC__ Andy McFarland ()
+Level: $250 (at least) ("Forger")
+Received Amount: $0
+Logo location: __NEEDED!__
+Swag: ?
+Last Contact: 6/21 (received inital acceptance!)
+__Notes:__ Has committed to $250 or more. Joe works for RocketFuel
+
 __Modern Services, Inc__ Brad Hancock (brad.hancock@modernservicesinc.com)  
 Level: $250 ("Forger")  
 Received Amount: $0  
