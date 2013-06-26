@@ -101,13 +101,7 @@ __University of Memphis__ Russell Deaton (rjdeaton@memphis.edu)
 Potential level: Venue, sponsorship  
 Last Contact: 6/17 (Bryan, email)  
 Next Contact Date: ??    
-__Notes:__ New ECE dept chair.      
-
-__O'Reilly__ Marsee Henon or Jon Johns (usergroups@oreilly.com, 800-998-9938)  
-Potential level: ??  
-Last Contact: 6/13 (Jordan, email)  
-Next Contact Date: 6/20  
-__Notes:__ They donate review copies of books to various UG already
+__Notes:__ New ECE dept chair.  
 
 __Emma__ @emmaemail  
 Potential level: ??  
