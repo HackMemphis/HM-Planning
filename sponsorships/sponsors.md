@@ -53,6 +53,14 @@ Swag: -
 Last Contact: (Dan)  
 __Notes:__ Doing the HACKmemphis logo for us.
 
+__O'Reilly__ Marsee Henon or Jon Johns (usergroups@oreilly.com, 800-998-9938)  
+Level: in-kind  
+Received Amount: -  
+Logo location: http://oreilly.com/about/logos/  
+Last Contact: 6/13 (Jordan, email)  
+Swag: 10-12 books  
+__Notes:__ They will donate 10-12 books for distribution at the event
+
 
 ### <a href="fulfillment"></a>Fulfillment Checklist
 
