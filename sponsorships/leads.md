@@ -122,8 +122,20 @@ Next Contact Date: 6/20
 __Notes:__ I've chatted with them before, have some contacts there. They sponsor a number of SF user groups.
 
 __Davisbase__ Steven Voyles (Agile Coach & Trainer)
-Potential level: ??
-Last Contact: 6/21 (Joe, Downtown Tech Lunch)
-Next Contact Date: TBD
+Potential level: ??  
+Last Contact: 6/21 (Joe, Downtown Tech Lunch)  
+Next Contact Date: TBD  
 __Notes:__ Mentioned his company may be interested in some sponsorship level, Sent prospectus 6/21
+
+__FoxyCart__ Luke Stokes (@foxycart)
+Potential level: ??  
+Last Contact: 6/26 (Jordan, Twitter)  
+Next Contact Date: 7/6  
+__Notes:__ I know some of these guys personally and they have sponsored some Nashville events
+
+__Twilio__ ? (@twilio)
+Potential level: ??  
+Last Contact: 6/26 (Jordan, Twitter)  
+Next Contact Date: 7/1  
+__Notes:__ They sponsor a lot of hacker events and conferences
 
