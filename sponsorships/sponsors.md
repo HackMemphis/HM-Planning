@@ -21,8 +21,12 @@ __Notes:__ Anything about this sponsor that may be relevant
 
 ---
 
+__Committed Total: $500__  
+__Received Total: $0__  
+__In-kind Sponsors: 3__
+
 __Modern Services, Inc__ Brad Hancock (brad.hancock@modernservicesinc.com)  
-Level: $250 ("Forger")  
+Level: $250  
 Received Amount: $0  
 Logo location: __NEEDED!__  
 Swag: ?  
