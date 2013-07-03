@@ -30,7 +30,7 @@ Level: $250
 Received Amount: $0  
 Logo location: __NEEDED!__  
 Swag: ?  
-Last Contact: 7/2 (received inital acceptance!)  
+Last Contact: 7/2 (received initial acceptance!)  
 __Notes:__ Has committed to $250. Voiced interest via HACKmemphis Google+.
 
 __Modern Services, Inc__ Brad Hancock (brad.hancock@modernservicesinc.com)  
@@ -38,7 +38,7 @@ Level: $250
 Received Amount: $0  
 Logo location: __NEEDED!__  
 Swag: ?  
-Last Contact: 6/7 (received inital acceptance!)  
+Last Contact: 6/7 (received initial acceptance!)  
 __Notes:__ Has committed to $250. Voiced interest at PHP meetup.
 
 __Midsouth Makers__ Joe Ferguson (email@company.com, phone)  
@@ -62,7 +62,7 @@ Level: $250 (at least)
 Received Amount: $0  
 Logo location: __NEEDED!__  
 Swag: ?  
-Last Contact: 6/21 (received inital acceptance!)  
+Last Contact: 6/21 (received initial acceptance!)  
 __Notes:__ Has committed to $250 or more. Joe works for RocketFuel
 
 __O'Reilly__ Marsee Henon or Jon Johns (usergroups@oreilly.com, 800-998-9938)  
