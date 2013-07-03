@@ -25,12 +25,12 @@ __Committed Total: $750__
 __Received Total: $0__  
 __In-kind Sponsors: 3__
 
-__LunaWeb, Inc__ Dave Barger (dbarger@lunaweb.com)
-Level: $250
-Received Amount: $0
-Logo location: __NEEDED!__
-Swag: ?
-Last Contact: 7/2 (received inital acceptance!)
+__LunaWeb, Inc__ Dave Barger (dbarger@lunaweb.com)  
+Level: $250  
+Received Amount: $0  
+Logo location: __NEEDED!__  
+Swag: ?  
+Last Contact: 7/2 (received inital acceptance!)  
 __Notes:__ Has committed to $250. Voiced interest via HACKmemphis Google+.
 
 __Modern Services, Inc__ Brad Hancock (brad.hancock@modernservicesinc.com)  
