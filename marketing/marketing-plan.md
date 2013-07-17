@@ -55,3 +55,7 @@ Needs
 ===
 * Logo design
 * Site template/design
+
+Help Write Tweets
+===
+Check the bulk-schedule-HACKmemphis.csv template for the format of tweets. Fill out the second field with the tweet contents. Don't worry about the date/time.
