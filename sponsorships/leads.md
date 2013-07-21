@@ -25,11 +25,6 @@ Last Contact: 6/11 by Jordan (email)
 Next Contact Date: 6/20  
 __Notes:__ Seems very promising! Jordan works for this company so the chances are good. Sent the prospectus on 6/11
 
-__Jetbrains__ Eugenia Dubova - PR Manager (Eugenia.Dubova@jetbrains.com)  
-Potential level: $???  
-Last Contact: 6/13 by Jordan (email w prospectus)  
-Next Contact Date: 6/20  
-__Notes:__ They sponsor other developer events
 
 __Github__ Elizabeth Naramore (@ElizabethN)  
 Potential level: $???
