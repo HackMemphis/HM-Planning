@@ -116,11 +116,11 @@ Last Contact: 6/21 (Joe, Downtown Tech Lunch)
 Next Contact Date: TBD  
 __Notes:__ Mentioned his company may be interested in some sponsorship level, Sent prospectus 6/21
 
-__FoxyCart__ Luke Stokes (@foxycart)
-Potential level: ??  
+FoxyCart Luke Stokes (@foxycart) __SAID NO__
+Potential level: -  
 Last Contact: 6/26 (Jordan, Twitter)  
 Next Contact Date: 7/6  
-__Notes:__ I know some of these guys personally and they have sponsored some Nashville events
+Notes: I know some of these guys personally and they have sponsored some Nashville events
 
 __Twilio__ ? (@twilio)
 Potential level: ??  
