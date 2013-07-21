@@ -35,10 +35,10 @@ __Notes:__ Has committed to $250. Voiced interest via HACKmemphis Google+.
 
 __Modern Services, Inc__ Brad Hancock (brad.hancock@modernservicesinc.com)  
 Level: $250  
-Received Amount: $0  
+Received Amount: $250  
 Logo location: __NEEDED!__  
 Swag: ?  
-Last Contact: 6/7 (received initial acceptance!)  
+Last Contact: 7/21 (signed agreement)  
 __Notes:__ Has committed to $250. Voiced interest at PHP meetup.
 
 __Midsouth Makers__ Joe Ferguson (email@company.com, phone)  
@@ -72,6 +72,14 @@ Logo location: http://oreilly.com/about/logos/
 Last Contact: 6/13 (Jordan, email)  
 Swag: 10-12 books  
 __Notes:__ They will donate 10-12 books for distribution at the event
+
+__Jetbrains__ Eugenia Dubova - PR Manager (Eugenia.Dubova@jetbrains.com)  
+Level: in-kind  
+Received Amount: -  
+Logo location: http://www.jetbrains.com/company/press/logos.html  
+Last Contact: 7/21 by Jordan (email)  
+Swag: 2 free licenses for any product  
+__Notes:__ Will need to send email after the event with full names and email addresses for winners.
 
 
 ### <a href="fulfillment"></a>Fulfillment Checklist
