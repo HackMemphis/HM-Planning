@@ -82,6 +82,15 @@ Swag: 2 free licenses for any product
 __Notes:__ Will need to send email after the event with full names and email addresses for winners.
 
 
+__University of Memphis__ Russell Deaton (rjdeaton@memphis.edu)  
+Level: $250 (and possibly venue)  
+Received Amount: $0  
+Logo location: __NEEDED__
+Last Contact: 7/17 (Bryan, Jordan, email)  
+Swag: ?  
+__Notes:__ New ECE dept chair.  Said they would sponsor at $250 and possibly venue. Sent Agreement 7/17
+
+
 ### <a href="fulfillment"></a>Fulfillment Checklist
 
 In order to make sure all things are taken care of, this is a list of items that you _really should_ get from each sponsor:
