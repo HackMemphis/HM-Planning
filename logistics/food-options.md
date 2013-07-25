@@ -20,32 +20,158 @@ __Notes:__
 
 ---
 
-__Tops BBQ__
-Cost for Food for 60-70 People: $amount
-Contact Person:
-Delivered or We Pickup?:
+__O'Charley's__
+Cost for Food for 60-70 People: Probable Donation of Party Platter(s) or more.
+Contact Person: John Willis (AGM) jpwillis269@gmail.com
+Delivered or We Pickup?: Unknown
 __Notes:__
+Prospectus/Sponsor agreement sent on 7/25/2013
+Southaven
+
+
+__Tops BBQ__
+Cost for Food for 60-70 People: $150 - $240 or Catering: >$510 
+Contact Person: George Montague fax 901-363-8365
+Delivered or We Pickup?: Pickup
+__Notes:__
+office: 363-4007(Kelly) 
+picnic party packs (1 week notice)
+24 people, no drinks,
+pork shoulder $49.95
+Beef brisket $79.95
+all include
+Meat, buns, slaw, bean, sauce, plate, forks napkins
+
+catering (setup/cleanup)2-3 weeks notice
+Pork shoulder 8.50 each
+brisket 14.00 each
+ribs 19.50 each with potato salad and cookie!
+all include
+Meat, buns, slaw, bean, sauce, plate, forks napkins
+
 
 __Central BBQ__
 Cost for Food for 60-70 People: $amount
-Contact Person:
+Contact Person: Central Ave 901-272-9377
 Delivered or We Pickup?:
 __Notes:__
+waiting on callback.
+
 
 __Jason's Deli__
-Cost for Food for 60-70 People: $amount
-Contact Person:
-Delivered or We Pickup?:
+Cost for Food for 60-70 People: $480
+Contact Person: Poplar Ave 901-324-3181
+Delivered or We Pickup?: Delivery $5 fee
 __Notes:__
+No discounts
+1 weeks notice
+
+Box Lunch (white/wheat/rye sandwich pickle chips cookie) $7.39 each
+Deluxe box (deluxe bread, cheese, cookie or brownie, chip) $8.39 each
+
 
 __Aldo's Pizza__
 Cost for Food for 60-70 People: $amount
-Contact Person:
-Delivered or We Pickup?:
+Contact Person: Aldo aldopizzapies@gmail.com
+Delivered or We Pickup?: Delivery free within 38103
 __Notes:__
+Main St 901-577-7743
+1 week notice
+Menu price
+*CONTACT* 
+
 
 __Memphis Pizza Cafe__
-Cost for Food for 60-70 People: $amount
+Cost for Food for 60-70 People: $560
+Contact Person: Madison Ave 901-726-5343
+Delivered or We Pickup?: Delivery
+__Notes:__
+No Discounts
+1 week notice
+
+
+__Swanky's__
+Cost for Food for 60-70 People: >$520
+Contact Person: Brandon 4770 poplar 901-730-0763
+Delivered or We Pickup?: Delivery 15% Fee
+__Notes__
+1 weeks notice
+Taco bar $8.00 grnd beef/chk
+Fajita bar $11.50 chicken/steak/mixed veg, rice, beans
+
+
+__Cheffies__
+Cost for Food for 60-70 People: <$250 - $450
+Contact Person: Louie 901-434-0488 High Point Terrace 
+Delivered or We Pickup?: Pickup
+__Notes__
+(tax exempt form discounts)
+1 weeks notice
+
+large salad (12-15 people) $50-75 each
+sand tray, 12, cut in half, $75
+side platters
+20ppl (pita chips/hummus) $16
+cookie trays 25 $30
+
+Bulk (2lb = ~6-8 sandwiches) (we may want to consider something like this, and just provide a sandwich bar type thing
+Egg salad 2lb $6.25
+chk sal 2lb $12.25
+tuna sal 2lb $15.25
+
+
+__Little Ceasars__
+Cost for Food for 60-70 People: $200
+Contact Person:Rob Estes 901-377-1122 Bartlett
+Delivered or We Pickup?: Pickup
+__Notes__
+Miguel franchise store
+probable discount, no info yet. CD contact on July 30th
+1 week notice
+
+
+__Fuel Cafe__
+Cost for Food for 60-70 People: $650
+Contact Person:Eric Proveaux
+Delivered or We Pickup?: Delivered
+__Notes__
+Evening only
+2-3 weeks notice
+Basic ~$10 per ppl - normal truck menu- sandwiches, tacos, drinks.
+
+
+__Rock'N'Dough__
+Cost for Food for 60-70 People:
+Contact Person: Jeremy (Owner) 901-435-6328
+Delivered or We Pickup?:
+__Notes__
+ridgeway 901-435-6328 Kathy/Jeremy (owner)
+waiting on call back.
+
+
+__Mark's Grill__
+Cost for Food for 60-70 People:
+Contact Person: 901-356-2075
+Delivered or We Pickup?:
+__Notes__
+CD Call after 1500
+
+
+__Revival__
+Cost for Food for 60-70 People:
+Contact Person: Cathy 901-338-2069
+Delivered or We Pickup?:
+__Notes__
+Waiting on call back.
+
+
+---
+
+__Name__
+Cost for Food for 60-70 People:
 Contact Person:
 Delivered or We Pickup?:
-__Notes:__
+__Notes__
+
+
+
