@@ -94,7 +94,7 @@ __Notes:__ New ECE dept chair.  Said they would sponsor at $250 and possibly ven
 __Github__ Elizabeth Naramore (@ElizabethN)  
 Level: $250 (and some door prizes)  
 Received Amount: $0  
-Logo location: __NEEDED__  
+Logo location: http://github.com/logos  
 Last Contact: 7/24 (Jordan, email)  
 Swag: ?
 __Notes:__ They sponsor other developer events. NEED TO SEND SPONSOR AGREEMENT & INVOICE
