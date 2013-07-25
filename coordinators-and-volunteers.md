@@ -14,6 +14,8 @@ Coordinators
   * Cat Herder / Coordinator - Kara Ferguson ([@editsverses](https://github.com/editsverses))
   * Advisors:
       * Brad Montgomery ([@bradmontgomery](https://github.com/bradmontgomery))
+  * Event Day Volunteers
+    * Mary Thompson - Works with Joe & Bryan R.
 
 
 Volunteers Looking for a Team
