@@ -6,7 +6,9 @@ Coordinators
   * Sponsorship Coordinator - Jordan Kasper ([@jakerella](https://github.com/jakerella))
       * __OPEN__ Helper monkey
       * __OPEN__ Fulfillment (gathering swag, money, etc from sponsors)
+      * Food and Beverage Fulfillment - Claudio Donndelinger ([@orias](https://github.com/orias))
   * Volunteer Coordinator / Day of Event Coordinator / Logistics - Danny Chamberlin ([@critter42](https://github.com/critter42))
+	
   * Marketing Coordinator - Bryan Robinson ([@brob](http://github.com/brob))
       * __OPEN__ Copywriter
       * __OPEN__ Designer
@@ -14,6 +16,8 @@ Coordinators
   * Cat Herder / Coordinator - Kara Ferguson ([@editsverses](https://github.com/editsverses))
   * Advisors:
       * Brad Montgomery ([@bradmontgomery](https://github.com/bradmontgomery))
+  * Event Day Volunteers
+    * Mary Thompson - Works with Joe & Bryan R.
 
 
 Volunteers Looking for a Team

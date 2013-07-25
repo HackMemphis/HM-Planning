@@ -85,10 +85,28 @@ __Notes:__ Will need to send email after the event with full names and email add
 __University of Memphis__ Russell Deaton (rjdeaton@memphis.edu)  
 Level: $250 (and possibly venue)  
 Received Amount: $0  
-Logo location: __NEEDED__
+Logo location: __NEEDED__  
 Last Contact: 7/17 (Bryan, Jordan, email)  
 Swag: ?  
 __Notes:__ New ECE dept chair.  Said they would sponsor at $250 and possibly venue. Sent Agreement 7/17
+
+
+__Github__ Elizabeth Naramore (@ElizabethN)  
+Level: $250 (and some door prizes)  
+Received Amount: $0  
+Logo location: http://github.com/logos  
+Last Contact: 7/24 (Jordan, email)  
+Swag: ?
+__Notes:__ They sponsor other developer events. NEED TO SEND SPONSOR AGREEMENT & INVOICE
+
+
+__VACO Technology__ Diane Tabulog (dtabulog@vaco.com)    
+Level: $500 (special package, 1hr at table, 3min announcement, otherwise "Silver" level stuff)  
+Received Amount: $0  
+Logo location: __NEEDED__  
+Last Contact: 7/24 by Jordan (email, in person)  
+__Notes:__ Sponsor JUG, seem likely to be interested. Talked with Diane at super user group meetup, said they were going to sponsor, but weren't sure what level. Will sponsor at special $500 level.  
+NEED TO SEND MODIFIED SPONSOR AGREEMENT
 
 
 ### <a href="fulfillment"></a>Fulfillment Checklist

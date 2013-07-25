@@ -25,23 +25,12 @@ Last Contact: 7/3 by Jordan (email)
 __Notes:__ Seems very promising! Jordan works for this company so the chances are good. Sent the prospectus on 6/11
 
 
-__Github__ Elizabeth Naramore (@ElizabethN)  
-Potential level: $???
-Last Contact: 7/21 (Jordan, email)  
-__Notes:__ They sponsor other developer events. No response yet.
-
 
 __Lokion__ Vaskin Kissoyan (vkissoyan@lokion.com)
 Potential level: $???  
 Last Contact: 6/13 by Brian Swanson (email)  
 Next Contact Date:  6/20  
 __Notes:__  Noted that it "sounds interesting", should definitely follow up. Mentioned that "CBU" may want to be involved as well.
-
-
-__VACO Technology__ Diane Tabulog (dtabulog@vaco.com)    
-Potential level: $???
-Last Contact: 6/20 by Jordan (email w prospectus, in person)  
-__Notes:__ Sponsor JUG, seem likely to be interested. Talked with Diane at super user group meetup, said they were going to sponsor, but weren't sure what level.
 
 
 __Robert Half__ Adam Robertson (adam.robertson@rht.com)    
