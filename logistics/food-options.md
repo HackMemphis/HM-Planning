@@ -160,12 +160,13 @@ __Notes:__
 
 
 __Mark's Grill__
-* Cost for Food for 60-70 People:
+* Cost for Food for 60-70 People: $600 - $900
 * Contact Person: 901-356-2075
-* Delivered or We Pickup?:
+* Delivered or We Pickup?: Delivered
 
 __Notes:__
-* CD Call after 1500
+* Needs to be food truck accessible.
+* $10 - $15 per person
 
 
 __Revival__
