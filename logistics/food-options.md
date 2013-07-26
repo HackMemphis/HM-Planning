@@ -52,12 +52,13 @@ __Notes:__
 
 
 __Central BBQ__
-* Cost for Food for 60-70 People: $amount
-* Contact Person: Central Ave 901-272-9377
-* Delivered or We Pickup?:
+* Cost for Food for 60-70 People: >$305
+* Contact Person: Nicholas/Brandon Central Ave 901-272-9377
+* Delivered or We Pickup?: Delivery $30
 
 __Notes:__
-* Waiting on callback.
+* http://cbqmemphis.com/catering.html options and breakdown. Unclear portion sizes.
+* 1 weeks notice
 
 
 __Jason's Deli__
