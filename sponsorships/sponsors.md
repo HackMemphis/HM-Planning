@@ -91,6 +91,15 @@ Swag: ?
 __Notes:__ New ECE dept chair.  Said they would sponsor at $250 and possibly venue. Sent Agreement 7/17
 
 
+__GeekBlogTV__ James ()
+Level: $250
+Received Amount: $0
+Logo location: __NEEDED!__
+Swag: No
+Last Contact: 7/26
+__Notes:__ Has Paid $250 & Signed Agreement 7/26
+
+
 __Github__ Elizabeth Naramore (@ElizabethN)  
 Level: $250 (and some door prizes)  
 Received Amount: $0  
