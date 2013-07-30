@@ -3,6 +3,10 @@ HM-Planning
 
 __Welcome to the HACKmemphis.com planning repository!__
 
+HACKmemphis is organizing a hackathon event in Memphis. Our goal is to bring together tech communities to develop hardware and software projects in Memphis. We are currently planning on having an event on September 14th, 2013. If you would be interested in participating, volunteering, or  helping please let us know.
+
+HACKmemphis is organized by a group in Memphis comprised of developers, makers, hackers, and local tech community supporters. We all want to see the local tech scene in Memphis thrive. We are operating under the MidsouthMakers' mutual nonprofit organization. This is a nonprofit venture. All money raised goes directly into creating the best event possible.
+
 Feel free to fork this repo and make changes and issue pull requests. The idea behind using git is that we have an easy system for planning out a hack event.
 
 File Layout:
