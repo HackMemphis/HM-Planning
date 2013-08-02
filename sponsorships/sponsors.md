@@ -118,6 +118,14 @@ __Notes:__ Sponsor JUG, seem likely to be interested. Talked with Diane at super
 NEED TO SEND MODIFIED SPONSOR AGREEMENT
 
 
+__Rackspace__ Jesse Noller (jesse.noller@rackspace.com)  
+Level: $2000  
+REceived Amount: $2000  
+Logo location: __NEEDED__  
+Last Contact: 8/2 (Jordan, email)  
+__Notes:__ Jesse tweeted that Rackspace wants to help hackathons in particular. Committed to $300. Changed to $2000 (budget constraints). Jesse says he's paid via PayPal and is asking what to send us (swag), I've given him a run down of what we'd like/will accept.
+
+
 ### <a href="fulfillment"></a>Fulfillment Checklist
 
 In order to make sure all things are taken care of, this is a list of items that you _really should_ get from each sponsor:
