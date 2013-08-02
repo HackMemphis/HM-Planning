@@ -33,6 +33,7 @@ Swag: ?
 Last Contact: 7/2 (received initial acceptance!)  
 __Notes:__ Has committed to $250. Voiced interest via HACKmemphis Google+.
 
+
 __Modern Services, Inc__ Brad Hancock (brad.hancock@modernservicesinc.com)  
 Level: $250  
 Received Amount: $250  
@@ -41,29 +42,33 @@ Swag: ?
 Last Contact: 7/21 (signed agreement)  
 __Notes:__ Has committed to $250. Voiced interest at PHP meetup.
 
+
 __Midsouth Makers__ Joe Ferguson (email@company.com, phone)  
 Level: venue and beverages  
 Received Amount: -  
 Logo location: __NEEDED!__  
 Swag: -  
-Last Contact: all the time (Joe)
+Last Contact: all the time (Joe)  
 __Notes:__ Right now we are planning on holding the event at this location. Alt Contact: Dan Hess / Ben Eishen / Claudio Donndelinger
 
+
 __ERF Design__ Dan Hess  
-Level: logo
+Level: logo  
 Received Amount: -  
 Logo location: __NEEDED!__  
 Swag: -  
 Last Contact: (Dan)  
 __Notes:__ Doing the HACKmemphis logo for us.
 
-__RocketFuel, LLC__ Andy McFarland ()
+
+__RocketFuel, LLC__ Andy McFarland ()  
 Level: $250 (at least)  
 Received Amount: $0  
 Logo location: __NEEDED!__  
 Swag: ?  
 Last Contact: 6/21 (received initial acceptance!)  
 __Notes:__ Has committed to $250 or more. Joe works for RocketFuel
+
 
 __O'Reilly__ Marsee Henon or Jon Johns (usergroups@oreilly.com, 800-998-9938)  
 Level: in-kind  
@@ -72,6 +77,7 @@ Logo location: http://oreilly.com/about/logos/
 Last Contact: 6/13 (Jordan, email)  
 Swag: 10-12 books  
 __Notes:__ They will donate 10-12 books for distribution at the event
+
 
 __Jetbrains__ Eugenia Dubova - PR Manager (Eugenia.Dubova@jetbrains.com)  
 Level: in-kind  
@@ -91,12 +97,12 @@ Swag: ?
 __Notes:__ New ECE dept chair.  Said they would sponsor at $250 and possibly venue. Sent Agreement 7/17
 
 
-__GeekBlogTV__ James ()
-Level: $250
-Received Amount: $0
-Logo location: __NEEDED!__
-Swag: No
-Last Contact: 7/26
+__GeekBlogTV__ James (__NEED CONTACT INFO__)  
+Level: $250  
+Received Amount: $0  
+Logo location: __NEEDED!__  
+Swag: No  
+Last Contact: 7/26  
 __Notes:__ Has Paid $250 & Signed Agreement 7/26
 
 
@@ -105,17 +111,16 @@ Level: $250 (and some door prizes)
 Received Amount: $0  
 Logo location: http://github.com/logos  
 Last Contact: 7/24 (Jordan, email)  
-Swag: ?
+Swag: ?  
 __Notes:__ They sponsor other developer events. NEED TO SEND SPONSOR AGREEMENT & INVOICE
 
 
-__VACO Technology__ Diane Tabulog (dtabulog@vaco.com)    
+__VACO Technology__ Diane Tabulog (dtabulog@vaco.com)  
 Level: $500 (special package, 1hr at table, 3min announcement, otherwise "Silver" level stuff)  
 Received Amount: $0  
 Logo location: __NEEDED__  
 Last Contact: 7/24 by Jordan (email, in person)  
 __Notes:__ Sponsor JUG, seem likely to be interested. Talked with Diane at super user group meetup, said they were going to sponsor, but weren't sure what level. Will sponsor at special $500 level.  
-NEED TO SEND MODIFIED SPONSOR AGREEMENT
 
 
 __Rackspace__ Jesse Noller (jesse.noller@rackspace.com)  
