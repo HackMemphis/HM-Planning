@@ -58,12 +58,6 @@ Last Contact:
 __Notes:__ Strong supporter of Free and Libre OSS and OSHW. Needs to be updated once I find a better point of contact
 
 
-__Rackspace__ Jesse Noller (jesse.noller@rackspace.com)  
-Potential level: $???  
-Last Contact: 7/21 (Jordan, email)  
-__Notes:__ Jesse tweeted that Rackspace wants to help hackathons in particular. No response yet.
-
-
 __Atlassian__ @Atlassian  
 Potential level: ??  
 Last Contact: 6/13 (Jordan, Twitter)  
