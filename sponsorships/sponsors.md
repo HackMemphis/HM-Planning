@@ -99,7 +99,7 @@ __Notes:__ New ECE dept chair.  Said they would sponsor at $250 and possibly ven
 
 __GeekBlogTV__ James (__NEED CONTACT INFO__)  
 Level: $250  
-Received Amount: $0  
+Received Amount: $250  
 Logo location: __NEEDED!__  
 Swag: No  
 Last Contact: 7/26  
