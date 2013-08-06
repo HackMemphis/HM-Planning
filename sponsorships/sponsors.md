@@ -28,7 +28,7 @@ __In-kind Sponsors: 3__
 __Emerge Memphis__ Lavinda Corbin (lavinda@emergememphis.org
 Logo location: __NEEDED!__  
 Swag: ?  
-Last Contact: 78/5 (received initial acceptance! Touring on 8/6) 
+Last Contact: 78/5 (received initial acceptance! Touring on 8/6)
 __Notes:__ Has committed to hosting the event pending our tour
 
 
@@ -95,9 +95,9 @@ Last Contact: 7/21 (signed agreement)
 __Notes:__ Has committed to $250. Voiced interest at PHP meetup.
 
 
-__O'Reilly__ Marsee Henon or Jon Johns (usergroups@oreilly.com, 800-998-9938)  
+__O'Reilly Media__ Marsee Henon or Jon Johns (usergroups@oreilly.com, 800-998-9938)
 Level: in-kind  
-Received Amount: -  
+Received Amount: - received books
 Logo location: http://oreilly.com/about/logos/  
 Last Contact: 6/13 (Jordan, email)  
 Swag: 10-12 books  
