@@ -37,25 +37,24 @@ __Notes:__ Has committed to $250. Voiced interest via HACKmemphis Google+.
 __Modern Services, Inc__ Brad Hancock (brad.hancock@modernservicesinc.com)  
 Level: $250  
 Received Amount: $250  
-Logo location: __NEEDED!__  
+Logo location: http://www.hackmemphis.com
 Swag: ?  
 Last Contact: 7/21 (signed agreement)  
 __Notes:__ Has committed to $250. Voiced interest at PHP meetup.
 
 
 __Midsouth Makers__ Joe Ferguson (email@company.com, phone)  
-Level: venue and beverages  
+Level: in-kind
 Received Amount: -  
-Logo location: __NEEDED!__  
+Logo location: http://www.hackmemphis.com
 Swag: -  
 Last Contact: all the time (Joe)  
-__Notes:__ Right now we are planning on holding the event at this location. Alt Contact: Dan Hess / Ben Eishen / Claudio Donndelinger
-
+__Notes:__ Operating HACKmemphis under MidsouthMakers' Nonprofit. Alt Contact: Dan Hess / Ben Eishen / Claudio Donndelinger
 
 __ERF Design__ Dan Hess  
 Level: logo  
 Received Amount: -  
-Logo location: __NEEDED!__  
+Logo location: http://www.hackmemphis.com
 Swag: -  
 Last Contact: (Dan)  
 __Notes:__ Doing the HACKmemphis logo for us.
@@ -63,10 +62,10 @@ __Notes:__ Doing the HACKmemphis logo for us.
 
 __RocketFuel, LLC__ Andy McFarland ()  
 Level: $250 (at least)  
-Received Amount: $0  
-Logo location: __NEEDED!__  
+Received Amount: $250
+Logo location: http://www.hackmemphis.com
 Swag: ?  
-Last Contact: 6/21 (received initial acceptance!)  
+Last Contact: 7/30 Paid
 __Notes:__ Has committed to $250 or more. Joe works for RocketFuel
 
 
@@ -97,10 +96,10 @@ Swag: ?
 __Notes:__ New ECE dept chair.  Said they would sponsor at $250 and possibly venue. Sent Agreement 7/17
 
 
-__GeekBlogTV__ James (__NEED CONTACT INFO__)  
+__GeekBlogTV__ James geekblogtv@gmail.com
 Level: $250  
 Received Amount: $250  
-Logo location: __NEEDED!__  
+Logo location: http://www.hackmemphis.com
 Swag: No  
 Last Contact: 7/26  
 __Notes:__ Has Paid $250 & Signed Agreement 7/26
@@ -126,7 +125,7 @@ __Notes:__ Sponsor JUG, seem likely to be interested. Talked with Diane at super
 __Rackspace__ Jesse Noller (jesse.noller@rackspace.com)  
 Level: $2000  
 REceived Amount: $2000  
-Logo location: __NEEDED__  
+Logo location: http://www.hackmemphis.com
 Last Contact: 8/2 (Jordan, email)  
 __Notes:__ Jesse tweeted that Rackspace wants to help hackathons in particular. Committed to $300. Changed to $2000 (budget constraints). Jesse says he's paid via PayPal and is asking what to send us (swag), I've given him a run down of what we'd like/will accept.
 
