@@ -38,6 +38,8 @@ __Infrastructure__
 * Sanitation bucket (disinfecting chlorine solution of ¼ cup of household chlorine 
 bleach mixed with one gallon of cold water)
 * Dish soap
+* Extension cords (2)
+* Power strips (3)
 
 __Smallwares__  
 
