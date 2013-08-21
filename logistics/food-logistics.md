@@ -6,7 +6,7 @@ HACKmemphis Schedule
 
 __Friday night__  
 
-1700-1800  
+1900-2200
 
 *  Bring in tables (4- one for beverages, one for snacks, one for meals and one for setup/prep for event staff)
 *  Bring in food/equipment
@@ -37,12 +37,12 @@ __Saturday__
 
 __Sunday__  
 
-0700-0800  
+0700-1400
 
-* 
+* Breakfast / Snacks Availible
 
 
-1700-1900  
+1400-1600
 
 * Pack up  
 * Clean up  
