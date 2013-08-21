@@ -22,7 +22,7 @@ __Notes:__
 ---
 
 __O'Charley's__
-* Cost for Food for 60-70 People: Probable Donation of Party Platter(s) or more.
+* Cost for Food for 60-70 People: Probable Donation of Party Platter(s) or more. No more progress yet.
 * Contact Person: John Willis (AGM) jpwillis269@gmail.com
 * Delivered or We Pickup?: Unknown
 

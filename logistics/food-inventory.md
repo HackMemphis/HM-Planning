@@ -65,6 +65,7 @@ __Soda__ (8 sodas X 75 people = 600 cans = 50 12packs) Units below are 12 packs
 * 4 Diet Dr. Pepper
 * 4 Root Beer
 * 4 Diet Root Beer
+* 3 Red Bull (24ct case)
 
 __Coffee__  
 
