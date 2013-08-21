@@ -17,7 +17,7 @@ File Layout:
 * sponsorships/ - Sponsorship Tracking / Info (Led by [@jakerella](https://github.com/jakerella)
 * README.md - this file
 * coordinators-and-volunteers.md - List of Coordinators and Volunteers
-* event-structure.md - Potential Agendas
+* schedule - Event Schedule
 * groups-to-include.md - Groups we want to make sure to invite / include
 * idea-board.md - Place for any idea, no matter how crazy
 * ideals.md - Ideals / Values of the event - Things to keep in mind
