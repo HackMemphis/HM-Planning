@@ -22,21 +22,21 @@ __Notes:__ Anything about this sponsor that may be relevant
 ---
 
 __Committed Total: $4,000__
-__Received Total: $2,684.15__
+__Received Total: $3,184.15 (less fees)__
 __In-kind Sponsors: 3__
 
 __Emerge Memphis__ Lavinda Corbin (lavinda@emergememphis.org
-Logo location: __NEEDED!__  
-Swag: ?  
+Logo location: http://www.HACKmemphis.com
+Swag: No
 Last Contact: 78/5 (received initial acceptance! Touring on 8/6)
-__Notes:__ Has committed to hosting the event pending our tour
+__Notes:__ Has committed to hosting the event
 
 
 __ERF Design__ Dan Hess  
 Level: logo  
 Received Amount: -  
 Logo location: http://www.HACKmemphis.com
-Swag: -  
+Swag: No
 Last Contact: (Dan)  
 __Notes:__ Doing the HACKmemphis logo for us.
 
@@ -52,7 +52,7 @@ __Notes:__ Has Paid $250 & Signed Agreement 7/26
 
 __Github__ Elizabeth Naramore (@ElizabethN)  
 Level: $250 (and some door prizes)  
-Received Amount: $0  
+Received Amount: $250
 Logo location: http://github.com/logos  
 Last Contact: 7/24 (Jordan, email)  
 Swag: ?  
@@ -70,9 +70,9 @@ __Notes:__ Will need to send email after the event with full names and email add
 
 __LunaWeb, Inc__ Dave Barger (dbarger@lunaweb.com)  
 Level: $250  
-Received Amount: $0  
-Logo location: __NEEDED!__  
-Swag: ?  
+Received Amount: $250
+Logo location: http://www.HACKmemphis.com
+Swag: No
 Last Contact: 7/2 (received initial acceptance!)  
 __Notes:__ Has committed to $250. Voiced interest via HACKmemphis Google+.
 
@@ -81,7 +81,7 @@ __Midsouth Makers__ Joe Ferguson (email@company.com, phone)
 Level: in-kind
 Received Amount: -  
 Logo location: http://www.HACKmemphis.com
-Swag: -  
+Swag: MidsouthMakers stickers
 Last Contact: all the time (Joe)  
 __Notes:__ Operating HACKmemphis under MidsouthMakers' Nonprofit. Alt Contact: Dan Hess / Ben Eishen / Claudio Donndelinger
 
@@ -90,7 +90,7 @@ __Modern Services, Inc__ Brad Hancock (brad.hancock@modernservicesinc.com)
 Level: $250  
 Received Amount: $250  
 Logo location: http://www.HACKmemphis.com
-Swag: ?  
+Swag: No
 Last Contact: 7/21 (signed agreement)  
 __Notes:__ Has committed to $250. Voiced interest at PHP meetup.
 
@@ -116,7 +116,7 @@ __RocketFuel, LLC__ Andy McFarland ()
 Level: $250 (at least)  
 Received Amount: $250 ($242.45 after Paypal)
 Logo location: http://www.HACKmemphis.com
-Swag: ?  
+Swag: No
 Last Contact: 7/30 Paid
 __Notes:__ Has committed to $250 or more. Joe works for RocketFuel
 
@@ -134,7 +134,7 @@ __VACO Technology__ Diane Tabulog (dtabulog@vaco.com)
 Level: $500 (special package, 1hr at table, 3min announcement, otherwise "Silver" level stuff)  
 Received Amount: $0  
 Logo location: __NEEDED__  
-Last Contact: 7/24 by Jordan (email, in person)  
+Last Contact: 8/20 Email Getting W9 filled out
 __Notes:__ Sponsor JUG, seem likely to be interested. Talked with Diane at super user group meetup, said they were going to sponsor, but weren't sure what level. Will sponsor at special $500 level.  
 
 
