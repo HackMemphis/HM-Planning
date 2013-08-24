@@ -3,7 +3,7 @@ Items Needed
 
 __Infrastructure__  
 
-* Insulated coffee caraffes?  
+* Insulated coffee caraffes?  http://www.walmart.com/ip/Aladdin-2-L-Carafe-Stainless-Steel/14968008
 * Coffee maker  
 * Normal sized chest cooler  
 * Microwave?
@@ -21,6 +21,7 @@ __Smallwares__
 * 2 boxes Large Food serving Gloves (~100ct)  
 * Sterno for chaffing dishes ((4 per entree X (n) entrees X (n) hot meals))DEPENDANT ON MENU  
 * 6-8 Cheap disposable chaffing dishes from Sams/Costco/etc DEPENDANT ON MENU  
+* Can Liners/Garbage bags
 
 Items Available  
 ===
@@ -56,7 +57,7 @@ Beverages
 __Soda__ (8 sodas X 75 people = 600 cans = 50 12packs) Units below are 12 packs
 
 * 6 Coke 
-* 6 Pepsi
+* 3 Pepsi
 * 5 Diet Coke
 * 5 Diet Pepsi
 * 6 Mt. Dew
@@ -65,7 +66,8 @@ __Soda__ (8 sodas X 75 people = 600 cans = 50 12packs) Units below are 12 packs
 * 4 Diet Dr. Pepper
 * 4 Root Beer
 * 4 Diet Root Beer
-* 3 Red Bull (24ct case)
+* 4 Red Bull (24ct case)
+* 2 Sugar Free Red Bull
 
 __Coffee__  
 
