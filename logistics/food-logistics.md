@@ -8,7 +8,7 @@ __Friday night__
 
 1900-2100
 
-*  Bring in tables (4- one for beverages, one for snacks, one for meals and one for setup/prep for event staff)
+*  Bring in tables (3- one for beverages, one for snacks, one for meals and one for setup/prep for event staff)
 *  Bring in food/equipment
 *  Stage drygoods
 
