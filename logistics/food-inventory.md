@@ -68,7 +68,7 @@ __Soda__ (8 sodas X 75 people = 600 cans = 50 12packs) Units below are 12 packs
 * 3 Red Bull (24ct case)
 * 3 Diet Red bull
 * 
-
+,
 
 __Coffee__  
 
@@ -83,10 +83,10 @@ __Coffee__
 __Other Beverages__  
 
 * Orange Juice
-* Bottled Water (sigh)
+* Bottled Water (35ct $4.99 16.09oz costco)
 * Beer (ID checks, legality?)
 * Individual iced tea packs/hot tea?
-* Gatorade (30ct asst $13.19 costco)
+* Gatorade (30ct asst $15.69 16.09oz costco)
 * Kirkland sport bev (30ct asst $9.99 costco)
 
 Food Items  
