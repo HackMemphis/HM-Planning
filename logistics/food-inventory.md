@@ -16,7 +16,7 @@ __Smallwares__
 * 200-400 disposable plastic cups (75 people drinking, 4 meals. Hopefully people will keep waste to a minimum.)  
 * 150 disposable coffee cups
 * 350-400 disposable utensils  
-* 8 rolls paper towels  
+* 8 rolls paper towels (12CT $14.99 costco) 
 * 300 paper napkins  
 * 2 boxes Large Food serving Gloves (~100ct)  
 * Sterno for chaffing dishes ((4 per entree X (n) entrees X (n) hot meals))DEPENDANT ON MENU  
