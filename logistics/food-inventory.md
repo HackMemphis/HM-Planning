@@ -14,8 +14,8 @@ __Smallwares__
 
 * 350-400 plates (170ct dixie 10“ $12.99 costco) (75 people eating, 4 meals with additional snacks plus extras)  
 * 200-400 disposable plastic cups (75 people drinking, 4 meals. Hopefully people will keep waste to a minimum.) (240ct 18oz $9.99 Costco) 
-* 150 disposable coffee cups
-* 350-400 disposable utensils  
+* 150 disposable coffee cups (100ct Dixie paper w/lid $11.69 costco)
+* 350-400 disposable utensils (2x(asst kit kirkland clear 180f 120s 60k $12.39 costco)
 * 8 rolls paper towels (12CT $14.99 costco) 
 * 300 paper napkins (600ct $8.19 costco)
 * 2 boxes Large Food serving Gloves (~100ct)  
