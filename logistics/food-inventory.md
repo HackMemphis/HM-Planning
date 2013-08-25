@@ -55,14 +55,15 @@ Beverages
 
 __Soda__ (8 sodas X 75 people = 600 cans = 50 12packs) Units below are 12 packs
 
-* 6 Coke 
+* 6 Coke (cc=32ct $7.99 Costco)
 * 6 Pepsi (pc)
-* 5 Diet Coke
+* 5 Diet Coke (cc)
+* Coke zero (cc)
 * 5 Diet Pepsi (pc)
 * 6 Mt. Dew (PC=36ct $8.59 costco)
 * 5 Diet Mt. Dew (Pc)
-* 5 Dr. Pepper
-* 4 Diet Dr. Pepper
+* 5 Dr. Pepper (cc)
+* 4 Diet Dr. Pepper (cc)
 * 4 Root Beer
 * 4 Diet Root Beer
 * 3 Red Bull (24ct case)
