@@ -19,8 +19,8 @@ __Smallwares__
 * 8 rolls paper towels (12CT $14.99 costco) 
 * 300 paper napkins (600ct $8.19 costco)
 * 2 boxes Large Food serving Gloves (~100ct)  
-* Sterno for chaffing dishes ((4 per entree X (n) entrees X (n) hot meals))DEPENDANT ON MENU  
-* 6-8 Cheap disposable chaffing dishes from Sams/Costco/etc DEPENDANT ON MENU  
+* Sterno for chaffing dishes ((2-4 per entree X (n) entrees X (n) hot meals))DEPENDANT ON MENU (24ct (2.25hr ea) $14.99 costco))
+* 6-8 Cheap disposable chaffing dishes from Sams/Costco/etc DEPENDANT ON MENU ((Stand $3.05 costco)+(full pan 15ct $8.49 costco)+(Half pan 30ct $5.99 costco))
 
 Items Available  
 ===
@@ -102,7 +102,8 @@ To be served/available Friday evening - Sunday AM
 * Vegetables and/or
 * Fruit (oranges $1.08/lb 0.5lb each orange Costco)(bananas $0.46/lb costco)
 * Chips (large bulk bags)
-* Nacho/salsa?
+* Chips asst small 
+* Nacho/salsa? (nacho chz $6/gal sams)(Salsa 2x38oz $7.49 costco)
 * Danish (10.99 30CT asst costco)
 
 __Breakfast__  
