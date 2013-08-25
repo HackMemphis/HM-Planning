@@ -66,8 +66,8 @@ __Soda__ (8 sodas X 75 people = 600 cans = 50 12packs) Units below are 12 packs
 * 4 Diet Dr. Pepper (cc)
 * 4 Root Beer
 * 4 Diet Root Beer
-* 3 Red Bull (24ct case)
-* 3 Diet Red bull
+* 3 Red Bull (24ct $32.79 costco)
+* 3 Diet Red bull (28ct $32.79 Costco)
 * Sprite (cc)
 ,
 
