@@ -3,7 +3,7 @@ Items Needed
 
 __Infrastructure__  
 
-* Insulated coffee caraffes?  
+* Insulated coffee caraffes http://www.walmart.com/ip/Aladdin-2-L-Carafe-Stainless-Steel/14968008  
 * Coffee maker  
 * Normal sized chest cooler  
 * Microwave?
@@ -58,7 +58,7 @@ Beverages
 __Soda__ (8 sodas X 75 people = 600 cans = 50 12packs) Units below are 12 packs
 
 * 6 Coke (cc=32ct $7.99 Costco)
-* 6 Pepsi (pc)
+* 3 Pepsi (pc)
 * 5 Diet Coke (cc)
 * Coke zero (cc)
 * 5 Diet Pepsi (pc)
@@ -68,8 +68,8 @@ __Soda__ (8 sodas X 75 people = 600 cans = 50 12packs) Units below are 12 packs
 * 4 Diet Dr. Pepper (cc)
 * 4 Root Beer
 * 4 Diet Root Beer
-* 3 Red Bull (24ct $32.79 costco)
-* 3 Diet Red bull (28ct $32.79 Costco)
+* 4 Red Bull (24ct $32.79 costco)
+* 2 Diet Red bull (28ct $32.79 Costco)
 * Sprite (cc)
 ,
 
