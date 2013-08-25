@@ -104,7 +104,7 @@ To be served/available Friday evening - Sunday AM
 * Vegetables and/or
 * Fruit (oranges $1.08/lb 0.5lb each orange Costco)(bananas $0.46/lb costco)
 * Chips (large bulk bags)
-* Chips asst small 
+* Chips asst small (4x(30ct asst $11.59 costco)
 * Nacho/salsa? (nacho chz $6/gal sams)(Salsa 2x38oz $7.49 costco)
 * Danish (10.99 30CT asst costco)
 
