@@ -73,17 +73,17 @@ __Soda__ (8 sodas X 75 people = 600 cans = 50 12packs) Units below are 12 packs
 
 __Coffee__  
 
-* Coffee grounds
+* Coffee grounds (40oz ground Kirklands $12.49)
 * Coffee filters
-* Non dairy creamer
-* half and half
-* Sugar
-* Splenda
+* Non dairy creamer (8x16oz $8.99 costco)
+* half and half (192ct $8.39 costco)
+* Sugar (8x22oz $9.19 costco)
+* Sucralose (1500ct packets $11.99 costco)
 * Jamesons
 
 __Other Beverages__  
 
-* Orange Juice
+* Orange Juice (Tropicana 2 gallons $11.39 costco)
 * Bottled Water (35ct $4.99 16.09oz costco)
 * Beer (ID checks, legality?)
 * Individual iced tea packs/hot tea?
