@@ -91,16 +91,22 @@ __Snacks__
 
 To be served/available Friday evening - Sunday AM
 
-* Cookies (150-200ct)
+* Cookies (150-200ct) (5.63Oz per $1, 60ct costco)
 * Assorted Candy
 * Vegetables and/or
 * Fruit
 * Chips (large bulk bags)
 * Nacho/salsa?
+* Danish (10.99 30CT asst costco)
+
+__Breakfast__  
+
+* Bagels (5.49 12ct asst costco)
+* Muffins (6.99 12ct asst costco)
 
 __Entrees__
 
-*
+
 *
 *
 *
