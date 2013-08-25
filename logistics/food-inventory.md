@@ -100,7 +100,7 @@ __Snacks__
 To be served/available Friday evening - Sunday AM
 
 * Cookies (150-200ct) (5.63Oz per $1, 60ct costco)
-* Assorted Candy
+* Assorted Candy (2x(150ct asst $14.99 costco)
 * Vegetables and/or
 * Fruit (oranges $1.08/lb 0.5lb each orange Costco)(bananas $0.46/lb costco)
 * Chips (large bulk bags)
