@@ -12,12 +12,12 @@ __Infrastructure__
 
 __Smallwares__  
 
-* 350-400 plates (75 people eating, 4 meals with additional snacks plus extras)  
-* 200-400 disposable plastic cups (75 people drinking, 4 meals. Hopefully people will keep waste to a minimum.)  
+* 350-400 plates (170ct dixie 10“ $12.99 costco) (75 people eating, 4 meals with additional snacks plus extras)  
+* 200-400 disposable plastic cups (75 people drinking, 4 meals. Hopefully people will keep waste to a minimum.) (240ct 18oz $9.99 Costco) 
 * 150 disposable coffee cups
 * 350-400 disposable utensils  
 * 8 rolls paper towels (12CT $14.99 costco) 
-* 300 paper napkins  
+* 300 paper napkins (600ct $8.19 costco)
 * 2 boxes Large Food serving Gloves (~100ct)  
 * Sterno for chaffing dishes ((4 per entree X (n) entrees X (n) hot meals))DEPENDANT ON MENU  
 * 6-8 Cheap disposable chaffing dishes from Sams/Costco/etc DEPENDANT ON MENU  
