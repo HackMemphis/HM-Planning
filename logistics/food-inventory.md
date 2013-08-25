@@ -56,16 +56,19 @@ Beverages
 __Soda__ (8 sodas X 75 people = 600 cans = 50 12packs) Units below are 12 packs
 
 * 6 Coke 
-* 6 Pepsi
+* 6 Pepsi (pc)
 * 5 Diet Coke
-* 5 Diet Pepsi
-* 6 Mt. Dew
-* 5 Diet Mt. Dew
+* 5 Diet Pepsi (pc)
+* 6 Mt. Dew (PC=36ct $8.59 costco)
+* 5 Diet Mt. Dew (Pc)
 * 5 Dr. Pepper
 * 4 Diet Dr. Pepper
 * 4 Root Beer
 * 4 Diet Root Beer
 * 3 Red Bull (24ct case)
+* 3 Diet Red bull
+* 
+
 
 __Coffee__  
 
@@ -83,6 +86,8 @@ __Other Beverages__
 * Bottled Water (sigh)
 * Beer (ID checks, legality?)
 * Individual iced tea packs/hot tea?
+* Gatorade (30ct asst $13.19 costco)
+* Kirkland sport bev (30ct asst $9.99 costco)
 
 Food Items  
 ----
@@ -94,7 +99,7 @@ To be served/available Friday evening - Sunday AM
 * Cookies (150-200ct) (5.63Oz per $1, 60ct costco)
 * Assorted Candy
 * Vegetables and/or
-* Fruit
+* Fruit (oranges $1.08/lb 0.5lb each orange Costco)(bananas $0.46/lb costco)
 * Chips (large bulk bags)
 * Nacho/salsa?
 * Danish (10.99 30CT asst costco)
