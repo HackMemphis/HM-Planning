@@ -50,7 +50,8 @@ __Smallwares__
 * 
 
 Food Needed  
-===
+===  
+Estimated Food Budget = $1800.00
 
 Beverages
 ----
@@ -89,32 +90,43 @@ Total Estimated Coffee Cost = $61.04
 
 __Other Beverages__  
 
-Total Estimated Coffee Cost = $
+Total Estimated Other Bevs Cost = $61.32
 
 * Orange Juice (Tropicana 2 gallons $11.39 costco) [1ct,11.39]
 * Bottled Water (35ct $4.99 16.09oz costco) [4ct,19.96]
 * Kirkland sport bev (30ct asst $9.99 costco) [3ct,29.97]
+* 
+
+Estimated Beverage Cost = 364.16
+* We can probably pull this number down if needed. Rather than purchasing the name brand items we can empty the shelves at Kroger.
+ 
+
 
 Food Items  
 ----
 
 __Snacks__
 
+Estimated Snack Cost = >$225.24
+
 To be served/available Friday evening - Sunday AM
 
-* Cookies (150-200ct) (5.63Oz per $1, 60ct costco)
-* Assorted Candy (2x(150ct asst $14.99 costco)
+* Cookies (150-200ct) (5.63Oz per $1, 60ct, 15.98 costco) [3ct,47.94]
+* Assorted Candy (2x(150ct asst $14.99 costco) [2ct,29.98]
 * Vegetables and/or
-* Fruit (oranges $1.08/lb 0.5lb each orange Costco)(bananas $0.46/lb costco)
-* Chips (large bulk bags)
-* Chips asst small (4x(30ct asst $11.59 costco)
-* Nacho/salsa? (nacho chz $6/gal sams)(Salsa 2x38oz $7.49 costco)
-* Danish (10.99 30CT asst costco)
+* Fruit (oranges $1.08/lb 0.5lb each orange, $16 Costco)(bananas $0.46/lb $5.00 costco) 
+* Chips (large bulk bags) 
+* Chips asst small (4x(30ct asst $11.59 costco) [4ct,$46.36]
+* Nacho/salsa? (nacho chz $6/gal sams)(Salsa 2x38oz $7.49 costco) [1ct chz, 1ct salsa, 20.98]
+* Danish (10.99 30CT asst costco) [5ct,54.95]
 
 __Breakfast__  
 
-* Bagels (5.49 12ct asst costco)
-* Muffins (6.99 12ct asst costco)
+Estimated Breakfast Cost = $76.88
+
+* Bagels (5.49 12ct asst costco) [4ct, 21.96]
+* Muffins (6.99 12ct asst costco) [7ct, 48.93]
+* Cream Cheese (3lb block, 5.99 Sams) [1ct, 5.99]
 
 __Entrees__
 
