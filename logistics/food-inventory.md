@@ -1,6 +1,16 @@
 Items Needed  
 ====
 
+* Estimated Food Budget = $1647.60 before tax
+ * Estimated Smallwares Cost = $164.81
+ * Estimated Soda cost = $241.80
+ * Estimated Coffee Cost = $61.04
+ * Estimated Other Bevs Cost = $61.32
+
+* Budget remaining for food = $1118.63
+ * 
+
+
 __Infrastructure__  
 
 * Insulated coffee caraffes http://www.walmart.com/ip/Aladdin-2-L-Carafe-Stainless-Steel/14968008  
@@ -11,6 +21,8 @@ __Infrastructure__
 
 
 __Smallwares__  
+
+Estimated Smallwares Cost => $164.81
 
 * 350-400 plates (170ct dixie 10“ $12.99 costco) (75 people eating, 4 meals with additional snacks plus extras)  [25.98]
 * 200-400 disposable plastic cups (75 people drinking, 4 meals. Hopefully people will keep waste to a minimum.) (240ct 18oz $9.99 Costco) [9.99]
@@ -51,7 +63,6 @@ __Smallwares__
 
 Food Needed  
 ===  
-Estimated Food Budget = $1800.00
 
 Beverages
 ----
