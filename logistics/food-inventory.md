@@ -1,6 +1,8 @@
 Items Needed  
 ====
 
+% = cheaper options available.
+
 * Estimated Food Budget = $1647.60 before tax
  * Estimated Smallwares Cost = $164.81
  * Estimated Soda cost = $241.80
@@ -25,13 +27,13 @@ __Smallwares__
 
 Estimated Smallwares Cost => $164.81
 
-* 350-400 plates (170ct dixie 10“ $12.99 costco) (75 people eating, 4 meals with additional snacks plus extras)  [25.98]
-* 200-400 disposable plastic cups (75 people drinking, 4 meals. Hopefully people will keep waste to a minimum.) (240ct 18oz $9.99 Costco) [9.99]
-* 150 disposable coffee cups (100ct Dixie paper w/lid $11.69 costco) [11.69]
-* 350-400 disposable utensils (2x(asst kit kirkland clear 180f 120s 60k $12.39 costco) [24.78]
-* 8 rolls paper towels (12CT $14.99 costco) [14.99]
-* 300 paper napkins (600ct $8.19 costco) [8.19]
-* 2 boxes Large Food serving Gloves (~100ct) [9.99]
+* 350-400 plates (170ct dixie 10“ $12.99 costco) (75 people eating, 4 meals)  [2ct,25.98]
+* 200-400 disposable plastic cups (75 people drinking, 4 meals.) (240ct 18oz $9.99 Costco) [1ct,9.99]
+* 150 disposable coffee cups (100ct Dixie paper w/lid $11.69 costco) [1ct,11.69]
+* 350-400 disposable utensils (2x(asst kit kirkland clear 180f 120s 60k $12.39 costco) [2ct,24.78]
+* 8 rolls paper towels (12CT $14.99 costco) [1ct,14.99]
+* 300 paper napkins (600ct $8.19 costco) [1ct,8.19]
+* 2 boxes Large Food serving Gloves (~100ct) [2ct,9.99]
 * Sterno for chaffing dishes ((2-4 per entree X (n) entrees X (n) hot meals))DEPENDANT ON MENU (24ct (2.25hr ea) $14.99 costco)) [29.98]
 * 6-8 Cheap disposable chaffing dishes from Sams/Costco/etc DEPENDANT ON MENU ((Stand $3.05 costco)+(full pan 15ct $8.49 costco)+(Half pan 30ct $5.99 costco)) [17.53]
 * 39gal husky clear (70ct $11.69 costco) [11.69]
@@ -81,8 +83,8 @@ Total Estimated Soda cost = $241.80
 * 5 Diet Mt. Dew (Pc) [1ct,8.59]
 * 5 Dr. Pepper (cc) [2ct,15.98]
 * 4 Diet Dr. Pepper (cc) [2ct,15.98]
-* 4 Root Beer 9.99
-* 4 Diet Root Beer 9.99
+* 4 Root Beer 9.99 %
+* 4 Diet Root Beer 9.99 %
 * 4 Red Bull (24ct $32.79 costco) [2ct,65.58]
 * 2 Diet Red bull (28ct $32.79 Costco) [1ct,32.79]
 * 2 Sprite (cc) [1ct,7.99] 
@@ -93,10 +95,10 @@ __Coffee__
 Total Estimated Coffee Cost = $61.04
 
 * Coffee grounds (40oz ground Kirklands $12.49)
-* Coffee filters 
-* Non dairy creamer (8x16oz $8.99 costco)
-* half and half (192ct $8.39 costco)
-* Sugar (8x22oz $9.19 costco)
+* Coffee filters ($10.00)
+* Non dairy creamer (8x16oz $8.99 costco) %
+* half and half (192ct $8.39 costco) %
+* Sugar (8x22oz $9.19 costco) %
 * Sucralose (1500ct packets $11.99 costco)
 * Jamesons
 
@@ -104,13 +106,13 @@ __Other Beverages__
 
 Total Estimated Other Bevs Cost = $61.32
 
-* Orange Juice (Tropicana 2 gallons $11.39 costco) [1ct,11.39]
-* Bottled Water (35ct $4.99 16.09oz costco) [4ct,19.96]
+* Orange Juice (Tropicana 2 gallons $11.39 costco) [1ct,11.39] %
+* Bottled Water (35ct $4.99 16.09oz costco) [4ct,19.96] %
 * Kirkland sport bev (30ct asst $9.99 costco) [3ct,29.97]
 * 
 
 Estimated Beverage Cost = 364.16
-* We can probably pull this number down if needed. Rather than purchasing the name brand items we can empty the shelves at Kroger.
+* We can probably pull this number down if needed. Kroger is actually a bit more expensive for cans than Costco's regular prices. Soda prices are actually less than noted. Sale ends 9/01.
  
 
 
@@ -128,13 +130,13 @@ Estimated Snack Cost = >$225.24
 To be served/available Friday evening - Sunday AM
 
 * Cookies (150-200ct) (5.63Oz per $1, 60ct, 15.98 costco) [3ct,47.94]
-* Assorted Candy (2x(150ct asst $14.99 costco) [2ct,29.98]
+* Assorted Candy (2x(150ct asst $14.99 costco) [2ct,29.98] %
 * Vegetables and/or
 * Fruit (oranges $1.08/lb 0.5lb each orange, $16 Costco)(bananas $0.46/lb $5.00 costco) 
 * Chips (large bulk bags) 
-* Chips asst small (4x(30ct asst $11.59 costco) [4ct,$46.36]
-* Nacho/salsa? (nacho chz $6/gal sams)(Salsa 2x38oz $7.49 costco) [1ct chz, 1ct salsa, 20.98]
-* Danish (10.99 30CT asst costco) [5ct,54.95]
+* Chips asst small (4x(30ct asst $11.59 costco) [4ct,$46.36] %
+* Nacho/salsa? (nacho chz $6/gal sams)(Salsa 2x38oz $7.49 costco) [1ct chz, 1ct salsa, 20.98] %
+* Danish (10.99 30CT asst costco) [5ct,54.95] %
 
 __Breakfast__  
 
