@@ -17,6 +17,7 @@ __Infrastructure__
 * Coffee maker  
 * Normal sized chest cooler  
 * Microwave?
+* Toaster
 
 
 
