@@ -116,6 +116,10 @@ Estimated Beverage Cost = 364.16
 Food Items  
 ----
 
+__ICE__
+
+* Ice bags 
+
 __Snacks__
 
 Estimated Snack Cost = >$225.24
