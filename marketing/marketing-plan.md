@@ -40,6 +40,7 @@ People to contact: (please add URLs)
 * [AIGA](http://memphis.aiga.org/) - Bryan will contact
 * [WMCTV] (http://wmctv.com) April Flagg, aflagg@wmctv.com  
 * [Fox13] (foxtv.com) Kristin Tallent, Kristin.Tallent@foxtv.com 
+* [News Channel 3](wreg.com) Daniel Hight, daniel.hight@wreg.com
 
 Potential taglines
 ====
