@@ -19,7 +19,7 @@ __Infrastructure__
 * Coffee maker  
 * Normal sized chest cooler  
 * Microwave?
-* Toaster
+* Toaster (5)
 
 
 
@@ -37,26 +37,26 @@ Estimated Smallwares Cost => $164.81
 * Sterno for chaffing dishes ((2-4 per entree X (n) entrees X (n) hot meals))DEPENDANT ON MENU (24ct (2.25hr ea) $14.99 costco)) [29.98]
 * 6-8 Cheap disposable chaffing dishes from Sams/Costco/etc DEPENDANT ON MENU ((Stand $3.05 costco)+(full pan 15ct $8.49 costco)+(Half pan 30ct $5.99 costco)) [17.53]
 * 39gal husky clear (70ct $11.69 costco) [11.69]
-* trash boxes Uhaul?
+* 
 
 Items Available  
 ===
 
 __Infrastructure__  
 
-* 4 Tables  
-* 3 Serving tongs  
-* 1 Massive cooler for ice/drink storage  
-* 1 Standard bulk beverage cooler  
-* 1 Chafing dish  
-* 2 Crock pots
-* Assorted serving utensils
-* Assorted knives
+* 4 Tables  (MM)
+* 3 Serving tongs  (CD)
+* 1 Massive cooler for ice/drink storage  (Dan9186)
+* 1 Standard bulk beverage cooler (MM) 
+* 1 Chafing dish (haksaw) 
+* Assorted serving utensils (CD)
+* Assorted knives (CD)
 * Sanitation bucket (disinfecting chlorine solution of ¼ cup of household chlorine 
-bleach mixed with one gallon of cold water)
-* Dish soap
-* Extension cords (2)
-* Power strips (3)
+bleach mixed with one gallon of cold water) (CD)
+* Dish soap (MM)
+* Extension cords (all+MM+CD)
+* Power strips (MM+all)
+* Trashcans (MM)
 
 __Smallwares__  
 
