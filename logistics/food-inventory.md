@@ -1,6 +1,7 @@
 Items Needed  
 ====
 
+See Google Drive > HACKmemphis Registration > Food Inventory tab
 % = cheaper options available.
 
 * Estimated Food Budget = $1647.60 before tax
