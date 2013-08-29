@@ -12,7 +12,7 @@ __Stuff from MidsouthMakers__
 * Network equipment?
 *   Switches
 *   AP?
-* 3D printer
+* MM 3D printer
 * 3D printer box
 * 3D printer server
 * Large Easel
@@ -24,4 +24,14 @@ __Stuff from MidsouthMakers__
 * TV
 * stack chairs
 * red chairs
+* 
+
+__Claudio home__
+* 3D printers
+* Extension cords
+* power strips
+* 3d printer stuff
+* Food utensils
+* Sanitation bucket
+* Bleach
 * 
