@@ -15,8 +15,13 @@ __Stuff from MidsouthMakers__
 * 3D printer
 * 3D printer box
 * 3D printer server
-* Large Easel (MM)
+* Large Easel
 * 2x white board and stuff
-* 2 equipment dollys (MM)
-* Trashcans (MM)
+* 2 equipment dollys 
+* Trashcans 
+* 2 24port switches
+* network cable
+* TV
+* stack chairs
+* red chairs
 * 
