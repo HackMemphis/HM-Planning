@@ -17,3 +17,6 @@ __Stuff from MidsouthMakers__
 * 3D printer server
 * Large Easel (MM)
 * 2x white board and stuff
+* 2 equipment dollys (MM)
+* Trashcans (MM)
+* 
