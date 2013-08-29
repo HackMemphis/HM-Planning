@@ -108,7 +108,7 @@ __Notes:__
 
 __Cheffies__
 * Cost for Food for 60-70 People: <$250 - $450
-* Contact Person: Louie 901-434-0488 High Point Terrace 
+* Contact Person: Louie 901-343-0488 High Point Terrace 
 * Delivered or We Pickup?: Pickup
 
 __Notes:__
