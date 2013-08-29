@@ -15,4 +15,5 @@ __Stuff from MidsouthMakers__
 * 3D printer
 * 3D printer box
 * 3D printer server
-* ...
+* Large Easel (MM)
+* 2x white board and stuff
