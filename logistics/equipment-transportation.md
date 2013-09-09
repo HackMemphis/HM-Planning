@@ -14,27 +14,27 @@ __Stuff from MidsouthMakers__
 * Microwave
 * Staff Beer
 * Electronics Equipment
-*   Rolling TV
-*     HDMI/DVI/VGA Cable
-*   Extension cords
-*   Power strips
-*   JBC Soldering station, stand and tips
-*   Hakko Soldering station, stand and tips
-*   Black Hot air reflow station
-*     Flux
-*     Solder
-*     IPA
-*     Soldering wool
-*     Solder Wick
-*   Multimeter(Cheap)
-*   Burner Irons
+  *   Rolling TV
+    *     HDMI/DVI/VGA Cable
+  *   Extension cords
+  *   Power strips
+  *   JBC Soldering station, stand and tips
+  *   Hakko Soldering station, stand and tips
+  *   Black Hot air reflow station
+    *     Flux
+    *     Solder
+    *     IPA
+    *     Soldering wool
+    *     Solder Wick
+  *   Multimeter(Cheap)
+  *   Burner Irons
 *   MM 3D printer
-*     3D printer box
-*     3D printer server
-*   Network equipment?
-*     AP
-*     2 24port switches
-*     Network cable
+    *     3D printer box
+    *     3D printer server
+* Network equipment
+    *     AP
+    *     2 24port switches
+    *     Network cable
 
 __Stuff from RocketFuel__
 
