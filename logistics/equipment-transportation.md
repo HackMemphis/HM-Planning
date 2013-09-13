@@ -16,6 +16,8 @@ __Stuff from MidsouthMakers__
 * Electronics Equipment
   *   Rolling TV
     *     HDMI/DVI/VGA Cable
+    *     Projector
+    *     
   *   Extension cords
   *   Power strips
   *   JBC Soldering station, stand and tips
