@@ -6,7 +6,7 @@
 * Follow up survey
 
 ## Follow up survey
-Joe and Bryan will handle sending out the survay though Event Bright
+Joe and Bryan will handle sending out the survey though Event Bright
 ### Strongly Disagree to Strongly Agree
 * I found the length of the event was appropriate
 * I met new people in the mMemphis tech community
