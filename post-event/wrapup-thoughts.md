@@ -1,0 +1,25 @@
+## Things We Did Right
+* Registration went very smoothly
+* Idea board was a big success
+* Logisitcs - Moving stuff in and out of the location
+* Provided a good atmosphere to bring developers together to work on projects
+* No one got stuck on a problem they couldn't resolve (that we know of)
+* No one went hungry/thirsty
+* Lunch & Dinner options seemed to be agreeable with everyone
+* Setup and breakdown went very well - plenty of volunteers and staff
+* Staging stuff at a nearby location worked out really well for loadin
+
+## Things We Did Wrong
+* Check "best by" dates on food - we should have bought them the week of the event, not the week before
+* Buy fewer drinks initially - have volunteers to run for more if needed
+* Fewer snacks while being aware of attendance
+* We can always do a little more planning
+* Thoughts/ideas/input on what projects may have been done next time
+
+## Ideas For the Future
+* Watch out for information overload on the badges
+** Possibly using color coded details for things like types of interests
+* Collect details on interest type before hand
+* Demo projects - a few hardware a few software
+** Use as a potential for teaching some details for equipment that might be there
+* Classes 2 to 4 months before hand for how to's and teaching on hardware and software projects
