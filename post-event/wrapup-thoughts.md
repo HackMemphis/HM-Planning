@@ -39,3 +39,9 @@
 *** Likely the Makers can help contribute the most to that section
 ** Software Side
 *** Look to Geek Memphis
+
+## Current Sponsor Commitments
+* GeekBlogTV has expressed interest
+* RocketFuel has offered to double contributions
+* ModernServices has offered to double contributions
+* Vaco has expressed interest
