@@ -1,9 +1,3 @@
-## Prep For Next Time
-* We are incorporating the Hack Memphis name as a mutual non-profit with in the state of TN
-** See the Makers details for template to follow
-* Obtain an EIN and get a bank account open
-* Roughly meetings every 2 months during off season and even more regular during prep time
-
 ## Things We Did Right
 * Registration went very smoothly
 * Idea board was a big success
@@ -40,9 +34,6 @@
 ** Software Side
 *** Look to Geek Memphis
 
-## Current Sponsor Commitments
-* GeekBlogTV has expressed interest
-* RocketFuel has offered to double contributions
-* ModernServices has offered to double contributions
-* Vaco has expressed interest
-* Emerge has offered to host the space again
+### Spread the Name
+* Small t-shirt run to demo and see how we like it
+* Potentially sponsoring PyTN
